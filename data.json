@@ -32,7 +32,7 @@
     {
       "Name": "Sebastian Szumigalski",
       "Description": "Microsoft CDM MVP. With passion for automation and new Technologys. Helping to drive PowerShell community in Asia. Owner of PowerShell User Group in Manila and Yangon",
-      "ImageUrl": "~/images/sebastian.png",
+      "ImageUrl": "https://github.com/PowerShellAsia/2018Website/blob/master/Pictures/sebastian.jpg?raw=true",
       "Social": {
         "Blog": "szumigalski.com",
         "Twitter": "http://www.twitter.com/szumigalskis"
@@ -397,7 +397,7 @@
         {
           "SessionId": "SEC05",
           "Time": "4:00 PM - 5:00 PM",
-          "Title": "Mastering a complex DSC lab infrastructure – The story of the BMW Group DC deployment"
+          "Title": "Mastering a complex DSC lab infrastructure ï¿½ The story of the BMW Group DC deployment"
         },
         {
           "SessionId": "Common4",

@@ -1,0 +1,461 @@
+{
+  "Location": {
+    "Name": "Singapore",
+    "Latitude": 1.282387,
+    "Longitude": 103.850243,
+    "Address": "1 Marina Blvd, <br/> #22-01 One Marina Boulevard <br/> Singapore 018989"
+  },
+  "Social": {
+    "Meetup": "http://www.meetup.com/mssgug/",
+    "Facebook": "https://www.facebook.com/singaporepowershell/"
+  },
+  "Callout": {
+    "Text": "Submit your paper now!",
+    "Link": "https://forms.office.com/Pages/ResponsePage.aspx?id=1qYpu2yYOEOlDnF-axxKFTabRzujGVlBryKXOqHfd9lUOFZLMEdINlRMRTJaMksxRFhKRlBJTEtWRC4u",
+    "Type": "warning"
+  },
+  "Campaigns": [
+    {
+      "Text": "Survey",
+      "Link": "#"
+    }
+  ],
+  "Organizers": [
+    {
+      "Name": "Milton Goh",
+      "Description": "Microsoft CDM MVP. Milton is the industry hybrid guy who loves getting involve with hybrid stuffs. He started off as a Software Developer in Visual Basic programming in his career.",
+      "ImageUrl": "~/images/milton.jpg",
+      "Social": {
+        "Twitter": "http://www.twitter.com/miltongoh"
+      }
+    },
+    {
+      "Name": "Sebastian Szumigalski",
+      "Description": "Microsoft CDM MVP. With passion for automation and new Technologys. Helping to drive PowerShell community in Asia. Owner of PowerShell User Group in Manila and Yangon",
+      "ImageUrl": "~/images/sebastian.png",
+      "Social": {
+        "Blog": "szumigalski.com",
+        "Twitter": "http://www.twitter.com/szumigalskis"
+      }
+    },
+    {
+      "Name": "Jaap Brasser",
+      "Description": "Jaap is a Cloud and Automation Engineer and CDM MVP with a big passion for scripting and automation. As an IT professional Jaap is part of several professional communities, speaks & organizes technical events and writes articles on a variety of subjects on his personal blog and other websites or magazines.",
+      "ImageUrl": "~/images/jaap.png",
+      "Social": {
+        "Blog": "jaapbrasser.com",
+        "Twitter": "http://www.twitter.com/jaap_brasser",
+        "Github": "github.com/jaapbrasser"
+      }
+    },
+    {
+      "Name": "Gael Colas",
+      "Description": "Gael is Cloud and Automation consultant based in London, UK, also ScrumMaster (CSM) and a fervent DevOps enthusiast, recipient of the Microsoft MVP award. I have extended experience in Infrastructure Operations for Financial Services, supporting critical platforms, tight security constraints and Cloud/PaaS/IaaS automation.",
+      "ImageUrl": "~/images/gael.jpeg",
+      "Social": {
+        "Twitter": "http://www.twitter.com/gaelcolas"
+      }
+    },
+    {
+      "Name": "Ravikanth Chaganti",
+      "Description": "Ravikanth is an automation fanatic and technologist working on Cloud and related technologies. He is a multi-year recepient of the Microsoft MVP award. Ravikanth is a Senior Principal Engineer at Dell EMC and works on Virtualization architectues based on Microsoft Hyper-V and VMware vSphere. Ravikanth is a published author and a well-known speaker in the PowerShell community. He leads the Bangalore IT Pro and PowerShell Bangalore user groups. Ravikanth is the founder and editor of PowerShellMagazine.Com and DiveIntotheCloud.Com sites.",
+      "ImageUrl": "~/images/ravi.jpeg",
+      "Social": {
+        "Twitter": "http://www.twitter.com/ravikanth"
+      }
+    },
+    {
+      "Name": "Senthamil Selvan",
+      "Description": "Microsoft Windows Dev MVP. Have experience in developing apps for windows platform. Developed several UWP apps and currently working on HoloLens apps.",
+      "ImageUrl": "~/images/sen.jpg",
+      "Social": {
+        "Blog": "http://altfo.wordpress.com",
+        "Twitter": "http://www.twitter.com/altfo"
+      }
+    },
+    {
+      "Name": "Benjamin Hodge",
+      "Description": "Benjamin Hodge has built and managed innovative technical teams across multiple regions for some of the worlds best Security and Network Start-ups.",
+      "ImageUrl": "~/images/ben.jpg",
+      "Social": {
+        "Email": "Desmond@sgwindowsmvp.onmicrosoft.com"
+      }
+    },
+    {
+      "Name": "Matthew Hitchcock",
+      "Description": "Matt is a Former PowerShell MVP and is a driving force behind the PowerShell Asia Conference ",
+      "ImageUrl": "~/images/matthnew.jpg",
+      "Social": {
+        "Email": "Desmond@sgwindowsmvp.onmicrosoft.com"
+      }
+    }
+  ],
+  "Sponsors": [
+    {
+      "Name": "Manning Publications",
+      "ImageUrl": "~/images/Manninglogo.png",
+      "Link": "https://www.manning.com/",
+      "Category": ""
+    }
+  ],
+  "Prizes": [
+
+  ],
+  "Tracks": [
+    {
+      "Day": "27 October 2017",
+      "Name": "DevOps & Cloud Track",
+      "Sessions": [
+        {
+          "SessionId": "Common1",
+          "Time": "8:30 AM - 9:30 AM",
+          "Title": "Opening Session PowerShell Team",
+          "Speaker": {
+            "Name": "Milton Goh",
+            "Description": "Microsoft CDM MVP. Milton is the industry hybrid guy who loves getting involve with hybrid stuffs. He started off as a Software Developer in Visual Basic programming in his career.",
+            "ImageUrl": "~/images/milton.jpg",
+            "Social": {
+              "Twitter": "http://www.twitter.com/miltongoh"
+            }
+          }
+        },
+        {
+          "SessionId": "Common2",
+          "Time": "9:45 AM - 10:45 AM",
+          "Title": "PowerShell Product Team"
+        },
+        {
+          "SessionId": "Common3",
+          "Time": "11:00 AM - 11:45 AM",
+          "Title": "PowerShell Product Team"
+        },
+        {
+          "SessionId": "Common4",
+          "Time": "12:00 PM - 01:00 PM",
+          "Title": "Lunch"
+        },
+        {
+          "SessionId": "IOT01",
+          "Time": "01:00 PM - 02:00 PM",
+          "Title": "What the heck is Microsoft Graph? and why should I care?"
+        },
+        {
+          "SessionId": "IOT2",
+          "Time": "2:15 PM - 3:15 PM",
+          "Title": "Green is Good Red is Bad - Turning your checklists into Pester Tests"
+        },
+        {
+          "SessionId": "Common6",
+          "Time": "3:30 PM - 4:00 PM",
+          "Title": "Break"
+        },
+        {
+          "SessionId": "IOT3",
+          "Time": "4:00 PM - 5:00 PM",
+          "Title": "How to deploy, use and administrate a Kubernetes cluster on Azure"
+        },
+        {
+          "SessionId": "IOT4",
+          "Time": "5:15 PM - 6:15 PM",
+          "Title": "PowerShell for SharePoint Online - Making SharePoint Admins feel loved again"
+        },
+        {
+          "SessionId": "Common8",
+          "Time": "6:15 PM - 6:30 PM",
+          "Title": "Day Close-up"
+        },
+        {
+          "SessionId": "Common9",
+          "Time": "6:30 PM - 10:00 PM",
+          "Title": "Networking Event - FREE BEER!!"
+        }
+      ]
+    },
+    {
+      "Day": "27 October 2017",
+      "Name": "DevOps & Security Track",
+      "Sessions": [
+        {
+          "SessionId": "Common1",
+          "Time": "8:30 AM - 9:30 AM",
+          "Title": "Opening Session PowerShell Team"
+        },
+        {
+          "SessionId": "Common2",
+          "Time": "9:45 AM - 10:45 AM",
+          "Title": "PowerShell Product Team"
+        },
+        {
+          "SessionId": "Common3",
+          "Time": "11:00 AM - 11:45 AM",
+          "Title": "PowerShell Product Team"
+        },
+        {
+          "SessionId": "Common4",
+          "Time": "12:00 PM - 01:00 PM",
+          "Title": "Lunch"
+        },
+        {
+          "SessionId": "SEC01",
+          "Time": "01:00 PM - 02:00 PM",
+          "Title": "PowerShell - Microsoft's Incident Response Language"
+        },
+        {
+          "SessionId": "SEC02",
+          "Time": "2:15 PM - 3:15 PM",
+          "Title": "Secure your environment by automation"
+        },
+        {
+          "SessionId": "Common6",
+          "Time": "3:30 PM - 4:00 PM",
+          "Title": "Break"
+        },
+        {
+          "SessionId": "SEC03",
+          "Time": "4:00 PM - 5:00 PM",
+          "Title": "Automating any tasks with Powershell and Friendly"
+        },
+        {
+          "SessionId": "SEC04",
+          "Time": "5:15 PM - 6:15 PM",
+          "Title": "Hybrid Lab Automation with AutomatedLab"
+        },
+        {
+          "SessionId": "Common8",
+          "Time": "6:15 PM - 6:30 PM",
+          "Title": "Day Close-up"
+        },
+        {
+          "SessionId": "Common9",
+          "Time": "6:30 PM - 10:00 PM",
+          "Title": "Networking Event - FREE BEER!!"
+        }
+      ]
+    },
+    {
+      "Day": "27 October 2017",
+      "Name": "General Track",
+      "Sessions": [
+        {
+          "SessionId": "Common1",
+          "Time": "8:30 AM - 9:30 AM",
+          "Title": "Opening Session PowerShell Team"
+        },
+        {
+          "SessionId": "Common2",
+          "Time": "9:45 AM - 10:45 AM",
+          "Title": "PowerShell Product Team"
+        },
+        {
+          "SessionId": "Common3",
+          "Time": "11:00 AM - 11:45 AM",
+          "Title": "PowerShell Product Team"
+        },
+        {
+          "SessionId": "Common4",
+          "Time": "12:00 PM - 01:00 PM",
+          "Title": "Lunch"
+        },
+        {
+          "SessionId": "GEN01",
+          "Time": "01:00 PM - 02:00 PM",
+          "Title": "PowerShell classes?"
+        },
+        {
+          "SessionId": "GEN02",
+          "Time": "2:15 PM - 3:15 PM",
+          "Title": "Knock, knock, knock - Linux at your door"
+        },
+        {
+          "SessionId": "Common6",
+          "Time": "3:30 PM - 4:00 PM",
+          "Title": "Break"
+        },
+        {
+          "SessionId": "GEN03",
+          "Time": "4:00 PM - 5:00 PM",
+          "Title": "Dependencies, how to make them evident"
+        },
+        {
+          "SessionId": "GEN04",
+          "Time": "5:15 PM - 6:15 PM",
+          "Title": "Working Faster & Smarter with PowerShell"
+        },
+        {
+          "SessionId": "Common8",
+          "Time": "6:15 PM - 6:30 PM",
+          "Title": "Day Close-up"
+        },
+        {
+          "SessionId": "Common9",
+          "Time": "6:30 PM - 10:00 PM",
+          "Title": "Networking Event - FREE BEER!!"
+        }
+      ]
+    }
+  ],
+
+  "Tracks2": [
+    {
+      "Day": "28 October 2017",
+      "Name": "DevOps & Cloud Track",
+      "Sessions": [
+        {
+          "SessionId": "Common1",
+          "Time": "8:30 AM - 9:30 AM",
+          "Title": "Kickoff session Day 2"
+        },
+        {
+          "SessionId": "DEV01",
+          "Time": "9:45 AM - 10:45 AM",
+          "Title": "PowerShell on IoT",
+          "Speaker": {
+            "Name": "Senthamil Selvan",
+            "Description": "Microsoft Windows Dev MVP. Have experience in developing apps for windows platform. Developed several UWP apps and currently working on HoloLens apps.",
+            "ImageUrl": "~/images/sen.jpg",
+            "Social": {
+              "Twitter": "www.twitter.com/altfo"
+            }
+          }
+        },
+        {
+          "SessionId": "DEV02",
+          "Time": "11:00 AM - 12:00 PM",
+          "Title": "Creating PowerShell cmdlets"
+        },
+        {
+          "SessionId": "Common2",
+          "Time": "12:00 PM - 01:00 PM",
+          "Title": "Lunch"
+        },
+        {
+          "SessionId": "DEV03",
+          "Time": "01:00 PM - 02:00 PM",
+          "Title": "Core, Containers and Performance Graphics"
+        },
+        {
+          "SessionId": "DEV04",
+          "Time": "2:15 PM - 3:15 PM",
+          "Title": "PowerShell with Azure iOT Hub"
+        },
+        {
+          "SessionId": "Common3",
+          "Time": "3:30 PM - 4:00 PM",
+          "Title": "Break"
+        },
+        {
+          "SessionId": "DEV05",
+          "Time": "4:00 PM - 5:00 PM",
+          "Title": "Build a continuous delivery platform for your PowerShell scripts and modules"
+        },
+        {
+          "SessionId": "Common4",
+          "Time": "5:15 PM - 6:15 PM",
+          "Title": "Closing Panel / Session / PowerShell Team?"
+        }
+      ]
+    },
+    {
+      "Day": "28 October 2017",
+      "Name": "DevOps & Security Track",
+      "Sessions": [
+        {
+          "SessionId": "Common1",
+          "Time": "8:30 AM - 9:30 AM",
+          "Title": "Kickoff session Day 2"
+        },
+        {
+          "SessionId": "SEC01",
+          "Time": "9:45 AM - 10:45 AM",
+          "Title": "PowerShell Security - All you need to know"
+        },
+        {
+          "SessionId": "SEC02",
+          "Time": "11:00 AM - 12:00 PM",
+          "Title": "Automated Offensive PowerShell APIness"
+        },
+        {
+          "SessionId": "Common2",
+          "Time": "12:00 PM - 01:00 PM",
+          "Title": "Lunch"
+        },
+        {
+          "SessionId": "SEC03",
+          "Time": "01:00 PM - 02:00 PM",
+          "Title": "Automated DC Deployment at the BMW Group"
+        },
+        {
+          "SessionId": "SEC04",
+          "Time": "2:15 PM - 3:15 PM",
+          "Title": "Meta PowerShell - Just A Layer of Convenience"
+        },
+        {
+          "SessionId": "Common3",
+          "Time": "3:30 PM - 4:00 PM",
+          "Title": "Break"
+        },
+        {
+          "SessionId": "SEC05",
+          "Time": "4:00 PM - 5:00 PM",
+          "Title": "Mastering a complex DSC lab infrastructure – The story of the BMW Group DC deployment"
+        },
+        {
+          "SessionId": "Common4",
+          "Time": "5:15 PM - 6:15 PM",
+          "Title": "Closing Panel / Session / PowerShell Team?"
+        }
+      ]
+    },
+    {
+      "Day": "28 October 2017",
+      "Name": "PowerShell Insider Track",
+      "Sessions": [
+        {
+          "SessionId": "Common1",
+          "Time": "8:30 AM - 9:30 AM",
+          "Title": "Kickoff session Day 2"
+        },
+        {
+          "SessionId": "GEN01",
+          "Time": "9:45 AM - 10:45 AM",
+          "Title": "vSphereDSC - resources for a foreign environment"
+        },
+        {
+          "SessionId": "GEN02",
+          "Time": "11:00 AM - 12:00 PM",
+          "Title": "Infrastructure validation using Pester"
+        },
+        {
+          "SessionId": "Common2",
+          "Time": "12:00 PM - 01:00 PM",
+          "Title": "Lunch"
+        },
+        {
+          "SessionId": "GEN03",
+          "Time": "01:00 PM - 02:00 PM",
+          "Title": "PowerShell Yin-Yang: the worst practices and tips & tricks"
+        },
+        {
+          "SessionId": "GEN04",
+          "Time": "2:15 PM - 3:15 PM",
+          "Title": "Yo Bro! Do you even Parameterize?"
+        },
+        {
+          "SessionId": "Common3",
+          "Time": "3:30 PM - 4:00 PM",
+          "Title": "Break"
+        },
+        {
+          "SessionId": "GEN05",
+          "Time": "4:00 PM - 5:00 PM",
+          "Title": "SQL Server Loves PowerShell - dbatools"
+        },
+        {
+          "SessionId": "Common4",
+          "Time": "5:15 PM - 6:15 PM",
+          "Title": "Closing Panel / Session / PowerShell Team?"
+        }
+      ]
+    }
+  ]
+}

@@ -93,7 +93,7 @@
   "Sponsors": [
     {
       "Name": "Manning Publications",
-      "ImageUrl": "~/images/Manninglogo.png",
+      "ImageUrl": "https://github.com/PowerShellAsia/2018Website/blob/master/Pictures/Manninglogo.png?raw=true",
       "Link": "https://www.manning.com/",
       "Category": ""
     }

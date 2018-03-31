@@ -65,15 +65,6 @@
       }
     },
     {
-      "Name": "Senthamil Selvan",
-      "Description": "Microsoft Windows Dev MVP. Have experience in developing apps for windows platform. Developed several UWP apps and currently working on HoloLens apps.",
-      "ImageUrl": "~/images/sen.jpg",
-      "Social": {
-        "Blog": "http://altfo.wordpress.com",
-        "Twitter": "http://www.twitter.com/altfo"
-      }
-    },
-    {
       "Name": "Benjamin Hodge",
       "Description": "Benjamin Hodge has built and managed innovative technical teams across multiple regions for some of the worlds best Security and Network Start-ups.",
       "ImageUrl": "~/images/ben.jpg",
@@ -87,6 +78,15 @@
       "ImageUrl": "~/images/matthnew.jpg",
       "Social": {
         "Email": "Desmond@sgwindowsmvp.onmicrosoft.com"
+      }
+    },
+    {
+      "Name": "Senthamil Selvan",
+      "Description": "Microsoft Windows Dev MVP. Have experience in developing apps for windows platform. Developed several UWP apps and currently working on HoloLens apps.",
+      "ImageUrl": "~/images/sen.jpg",
+      "Social": {
+        "Blog": "http://altfo.wordpress.com",
+        "Twitter": "http://www.twitter.com/altfo"
       }
     }
   ],

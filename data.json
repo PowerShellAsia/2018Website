@@ -52,7 +52,7 @@
     {
       "Name": "Gael Colas",
       "Description": "Gael is Cloud and Automation consultant based in London, UK, also ScrumMaster (CSM) and a fervent DevOps enthusiast, recipient of the Microsoft MVP award. I have extended experience in Infrastructure Operations for Financial Services, supporting critical platforms, tight security constraints and Cloud/PaaS/IaaS automation.",
-      "ImageUrl": "~/images/gael.jpeg",
+      "ImageUrl": "https://github.com/PowerShellAsia/2018Website/blob/master/Pictures/gael.jpeg?raw=true",
       "Social": {
         "Twitter": "http://www.twitter.com/gaelcolas"
       }
@@ -60,7 +60,7 @@
     {
       "Name": "Ravikanth Chaganti",
       "Description": "Ravikanth is an automation fanatic and technologist working on Cloud and related technologies. He is a multi-year recepient of the Microsoft MVP award. Ravikanth is a Senior Principal Engineer at Dell EMC and works on Virtualization architectues based on Microsoft Hyper-V and VMware vSphere. Ravikanth is a published author and a well-known speaker in the PowerShell community. He leads the Bangalore IT Pro and PowerShell Bangalore user groups. Ravikanth is the founder and editor of PowerShellMagazine.Com and DiveIntotheCloud.Com sites.",
-      "ImageUrl": "~/images/ravi.jpeg",
+      "ImageUrl": "https://github.com/PowerShellAsia/2018Website/blob/master/Pictures/ravi.jpeg?raw=true",
       "Social": {
         "Twitter": "http://www.twitter.com/ravikanth"
       }

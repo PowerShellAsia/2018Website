@@ -104,191 +104,327 @@
   ],
   "Tracks": [
     {
-      "Day": "27 October 2017",
-      "Name": "DevOps & Cloud Track",
+      "Day": "19 October 2018",
+      "Name": "CloudyDevOps",
       "Sessions": [
         {
           "SessionId": "Common1",
-          "Time": "8:30 AM - 9:30 AM",
-          "Title": "Opening Session PowerShell Team",
+          "Time": "9:00 AM - 9:45 AM",
+          "Title": "KeyNote",
           "Speaker": {
-            "Name": "Milton Goh",
-            "Description": "Microsoft CDM MVP. Milton is the industry hybrid guy who loves getting involve with hybrid stuffs. He started off as a Software Developer in Visual Basic programming in his career.",
-            "ImageUrl": "~/images/milton.jpg",
+            "Name": "",
+            "Description": "",
+            "ImageUrl": "",
             "Social": {
-              "Twitter": "http://www.twitter.com/miltongoh"
+              "Twitter": ""
             }
           }
         },
         {
           "SessionId": "Common2",
-          "Time": "9:45 AM - 10:45 AM",
-          "Title": "PowerShell Product Team"
-        },
-        {
-          "SessionId": "Common3",
-          "Time": "11:00 AM - 11:45 AM",
-          "Title": "PowerShell Product Team"
-        },
-        {
-          "SessionId": "Common4",
-          "Time": "12:00 PM - 01:00 PM",
-          "Title": "Lunch"
+          "Time": "10:00 AM - 10:45 AM",
+          "Title": ""
         },
         {
           "SessionId": "IOT01",
-          "Time": "01:00 PM - 02:00 PM",
-          "Title": "What the heck is Microsoft Graph? and why should I care?"
+          "Time": "11:00 AM - 11:45 AM",
+          "Title": "PowerShell IoT: A new frontier for PowerShell, live coding included",
+          "Speaker": {
+            "Name": "Tyler Leonhardt",
+            "Description": "Tyler is a developer on the PowerShell team at Microsoft. He's the current maintainer of the VSCode extension and PowerShell Editor Services and also one of the developers who work on PowerShell IoT - the module for interacting with sensors and devices like the Raspberry Pi.He's a developer experience nut, loves coffee and loves to customize mechanical keyboards.",
+            "ImageUrl": "https://github.com/PowerShellAsia/2018Website/blob/master/Pictures/TylerLeonhardt.jpg?raw=true",
+            "Social": {
+              "Twitter": "http://www.twitter.com/TylerLeonhardt"
+            }
+          }
         },
         {
-          "SessionId": "IOT2",
-          "Time": "2:15 PM - 3:15 PM",
-          "Title": "Green is Good Red is Bad - Turning your checklists into Pester Tests"
+          "SessionId": "Common3",
+          "Time": "12:00 PM - 01:00 PM",
+          "Title": "Lunch"
         },
         {
-          "SessionId": "Common6",
-          "Time": "3:30 PM - 4:00 PM",
-          "Title": "Break"
+          "SessionId": "IOT02",
+          "Time": "01:00 PM - 01:45 PM",
+          "Title": "Developing Serverless Applications with Azure Functions",
+          "Speaker": {
+            "Name": "Jaap Brasser",
+            "Description": "Jaap is a Cloud and Automation Engineer and CDM MVP with a big passion for scripting and automation. As an IT professional Jaap is part of several professional communities, speaks & organizes technical events and writes articles on a variety of subjects on his personal blog and other websites or magazines.",
+            "ImageUrl": "~/images/jaap.png",
+            "Social": {
+              "Twitter": "http://www.twitter.com/jaap_brasser"
+            }
+          }
         },
         {
           "SessionId": "IOT3",
-          "Time": "4:00 PM - 5:00 PM",
-          "Title": "How to deploy, use and administrate a Kubernetes cluster on Azure"
+          "Time": "2:00 PM - 2:45 PM",
+          "Title": "A Coolblue CI/CD Story",
+          "Speaker": {
+            "Name": "Pat Hermens",
+            "Description": "Development Manager at @Coolblue_NL. Husband + father of 2 amazing kids. A loud Aussie that’s been living in NL for a few years (& still learning Dutch)",
+            "ImageUrl": "https://github.com/PowerShellAsia/2018Website/blob/master/Pictures/phermens.jpg?raw=true",
+            "Social": {
+              "Twitter": "http://www.twitter.com/phermens"
+            }
+          }
+        },
+        {
+          "SessionId": "Common4",
+          "Time": "3:00 PM - 3:30 PM",
+          "Title": "Break"
         },
         {
           "SessionId": "IOT4",
-          "Time": "5:15 PM - 6:15 PM",
-          "Title": "PowerShell for SharePoint Online - Making SharePoint Admins feel loved again"
+          "Time": "3:30 PM - 4:15 PM",
+          "Title": "Deploying complex applications with Intune, PowerShell, and VSTS Package Manager.",
+          "Speaker": {
+            "Name": "Steven Hosking",
+            "Description": "Having spent over 15 years in the IT industry primarily supporting and managing System Centre products, Steven Hosking has continually been proven as passionate subject matter expert. He is the founder of the Sydney System Centre and Infrastructure group, where he leads the community in exploring the Microsoft System Centre suite of products.",
+            "ImageUrl": "https://github.com/PowerShellAsia/2018Website/blob/master/Pictures/svenvan.jpg?raw=true",
+            "Social": {
+              "Twitter": "http://www.twitter.com/onpremcloudguy "
+            }
+          }
         },
         {
-          "SessionId": "Common8",
-          "Time": "6:15 PM - 6:30 PM",
+          "SessionId": "IOT5",
+          "Time": "4:30 PM - 5:15 PM",
+          "Title": "PowerShell for SharePoint Online - Making SharePoint Admins feel loved again",
+          "Speaker": {
+            "Name": "Rick Taylor",
+            "Description": "Rick is a SharePoint architect and has assisted numerous, large companies in their implementations including the US Air Force, Charles Schwab, and Nestle. He is a former Microsoft engineer and has worked on the SharePoint Engineering team as well as the OpsCon division dealing with ITSM and Governance. He is a published author, co-author, and contributing author. His influence within the MCT and SharePoint communities facilitated his being selected to present at the first MCT Community Summit held in Zurich, Switzerland . Rick is currently a DevOps Engineer for ZAACT. Rick currently resides in the Phoenix, AZ area where he is an avid triathlete (Clydesdale class), and active in the Boy Scouts of America",
+            "ImageUrl": "https://github.com/PowerShellAsia/2018Website/blob/master/Pictures/RickTaylor.jpg?raw=true",
+            "Social": {
+              "Twitter": "http://www.twitter.com/slkrck"
+            }
+          }
+        },
+        {
+          "SessionId": "Common5",
+          "Time": "5:30 PM - 6:00 PM",
           "Title": "Day Close-up"
         },
         {
-          "SessionId": "Common9",
+          "SessionId": "Common6",
           "Time": "6:30 PM - 10:00 PM",
           "Title": "Networking Event - FREE BEER!!"
         }
       ]
     },
     {
-      "Day": "27 October 2017",
-      "Name": "DevOps & Security Track",
+      "Day": "19 October 2018",
+      "Name": "DSC, Conf mgmt & Bi",
       "Sessions": [
         {
           "SessionId": "Common1",
-          "Time": "8:30 AM - 9:30 AM",
-          "Title": "Opening Session PowerShell Team"
+          "Time": "9:00 AM - 9:45 AM",
+          "Title": "KeyNote",
+          "Speaker": {
+            "Name": "",
+            "Description": "",
+            "ImageUrl": "",
+            "Social": {
+              "Twitter": ""
+            }
+          }
         },
         {
           "SessionId": "Common2",
-          "Time": "9:45 AM - 10:45 AM",
-          "Title": "PowerShell Product Team"
-        },
-        {
-          "SessionId": "Common3",
-          "Time": "11:00 AM - 11:45 AM",
-          "Title": "PowerShell Product Team"
-        },
-        {
-          "SessionId": "Common4",
-          "Time": "12:00 PM - 01:00 PM",
-          "Title": "Lunch"
+          "Time": "10:00 AM - 10:45 AM",
+          "Title": ""
         },
         {
           "SessionId": "SEC01",
-          "Time": "01:00 PM - 02:00 PM",
-          "Title": "PowerShell - Microsoft's Incident Response Language"
+          "Time": "11:00 AM - 11:45 AM",
+          "Title": "The DSC Pull Server Reloaded",
+          "Speaker": {
+            "Name": "Ben Gelens",
+            "Description": "Ben is a technician in heart and soul. He likes working with cutting-edge technology and implementing innovative solutions, often before the technology has commoditized. His strength is that he can automate almost anything. Ben transitioned from a traditional infrastructure consultant / engineer to a DevOps and Cloud focused consultant / engineer. Ben is an active IT community participant and speaker and has been awarded the Microsoft MVP (Most Valuable Professional) award for his contributions.",
+            "ImageUrl": "https://github.com/PowerShellAsia/2018Website/blob/master/Pictures/BenGelens.png?raw=true",
+            "Social": {
+              "Twitter": "http://www.twitter.com/bgelens"
+            }
+          }
+        },
+        {
+          "SessionId": "Common3",
+          "Time": "12:00 PM - 01:00 PM",
+          "Title": "Lunch"
         },
         {
           "SessionId": "SEC02",
-          "Time": "2:15 PM - 3:15 PM",
-          "Title": "Secure your environment by automation"
-        },
-        {
-          "SessionId": "Common6",
-          "Time": "3:30 PM - 4:00 PM",
-          "Title": "Break"
+          "Time": "01:00 PM - 01:45 PM",
+          "Title": "Lab automation with Docker on Windows and Linux",
+          "Speaker": {
+            "Name": "Jan-Hendrik Peters",
+            "Description": "Having worked at an international grocery chain for 4 years where I automated the deployment of over 20.000 nodes, I quickly developed my love for PowerShell, Desired State Configuration and automation in general. As a Microsoft, Premier Field Engineer I now help my customers adopt a DevOps style. This includes introducing DSC into their environment, developing release pipelines and generally automating things.",
+            "ImageUrl": "https://github.com/PowerShellAsia/2018Website/blob/master/Pictures/JanPeters.jpg?raw=true",
+            "Social": {
+              "Twitter": "http://www.twitter.com/nyanhp"
+            }
+          }
         },
         {
           "SessionId": "SEC03",
-          "Time": "4:00 PM - 5:00 PM",
-          "Title": "Automating any tasks with Powershell and Friendly"
+          "Time": "2:00 PM - 2:45 PM",
+          "Title": "Geting started with integration of PowerShell and Power BI.",
+          "Speaker": {
+            "Name": "Alexander Holmeset",
+            "Description": "Alexander Holmeset is Cloud Consultant at CloudWay. He currently blogs at skype4bworld.wordpress.com. He is very passionate about unified communication and automation. He has an extensive background from customer care, and have an eye for understanding what the end user needs. Experienced with international spread videoconference systems, IP Telephony, end user training/support and advanced troubleshooting. Alexander´s focus is everything Skype for Business, Office 365 and automation with PowerShell. He will strive to deliver stable and user friendly solutions that meets customer requirements and help them start taking use of the advantages in Office 365.Certified in ITIL Foundation framework and is an MCSE Productivity.His motto is: If you are going to do something more than once, then automate it.",
+            "ImageUrl": "https://github.com/PowerShellAsia/2018Website/blob/master/Pictures/AlexHolmeset.jpg?raw=true",
+            "Social": {
+              "Twitter": "http://www.twitter.com/AlexHolmeset"
+            }
+          }
+        },
+        {
+          "SessionId": "Common4",
+          "Time": "3:00 PM - 3:30 PM",
+          "Title": "Break"
         },
         {
           "SessionId": "SEC04",
-          "Time": "5:15 PM - 6:15 PM",
-          "Title": "Hybrid Lab Automation with AutomatedLab"
+          "Time": "3:30 PM - 4:15 PM",
+          "Title": "Infrastructure validation using Pester",
+          "Speaker": {
+            "Name": "Irwin Strachan",
+            "Description": "Irwin Strachan is a technical consultant at OLGREEN and passionately curious about PowerShell, Automation and Microsoft-based technologies.",
+            "ImageUrl": "https://github.com/PowerShellAsia/2018Website/blob/master/Pictures/IrwinStrachan.jpg?raw=true",
+            "Social": {
+              "Twitter": "http://www.twitter.com/IrwinStrachan "
+            }
+          }
         },
         {
-          "SessionId": "Common8",
-          "Time": "6:15 PM - 6:30 PM",
+          "SessionId": "SEC05",
+          "Time": "4:30 PM - 5:15 PM",
+          "Title": "Monitoring 101 with Windows and PowerShell",
+          "Speaker": {
+            "Name": "Matthew Hodgkins",
+            "Description": "Principal Engineer working at one of the largest retailers in the Netherlands and Belgium. Lover of DevOps, Automation and Belgium beer. Originally from Sydney, Australia.",
+            "ImageUrl": "https://github.com/PowerShellAsia/2018Website/blob/master/Pictures/MattHodge.JPG?raw=true",
+            "Social": {
+              "Twitter": "http://www.twitter.com/MattHodge"
+            }
+          }
+        },
+        {
+          "SessionId": "Common5",
+          "Time": "5:30 PM - 6:00 PM",
           "Title": "Day Close-up"
         },
         {
-          "SessionId": "Common9",
+          "SessionId": "Common6",
           "Time": "6:30 PM - 10:00 PM",
           "Title": "Networking Event - FREE BEER!!"
         }
       ]
     },
     {
-      "Day": "27 October 2017",
-      "Name": "General Track",
+      "Day": "19 October 2018",
+      "Name": "PowerShell Deep dive",
       "Sessions": [
         {
           "SessionId": "Common1",
-          "Time": "8:30 AM - 9:30 AM",
-          "Title": "Opening Session PowerShell Team"
+          "Time": "9:00 AM - 9:45 AM",
+          "Title": "KeyNote",
+          "Speaker": {
+            "Name": "",
+            "Description": "",
+            "ImageUrl": "",
+            "Social": {
+              "Twitter": ""
+            }
+          }
         },
         {
           "SessionId": "Common2",
-          "Time": "9:45 AM - 10:45 AM",
-          "Title": "PowerShell Product Team"
+          "Time": "10:00 AM - 10:45 AM",
+          "Title": ""
+        },
+        {
+          "SessionId": "GEn01",
+          "Time": "11:00 AM - 11:45 AM",
+          "Title": "Building Better Bricks: Module Design and Development Best Practices",
+          "Speaker": {
+            "Name": "Chris Gardner",
+            "Description": "Chris Gardner is a DevOps and ALM consultant with over 4 years' experience working with PowerShell. He has recently been focusing on using DSC to configure Windows for a variety of purposes, particularly when provisioning dev/test environments in Azure.",
+            "ImageUrl": "https://github.com/PowerShellAsia/2018Website/blob/master/Pictures/ChrisGardner.jpg?raw=true",
+            "Social": {
+              "Twitter": "http://www.twitter.com/halbaradkenafin"
+            }
+          }
         },
         {
           "SessionId": "Common3",
-          "Time": "11:00 AM - 11:45 AM",
-          "Title": "PowerShell Product Team"
-        },
-        {
-          "SessionId": "Common4",
           "Time": "12:00 PM - 01:00 PM",
           "Title": "Lunch"
         },
         {
-          "SessionId": "GEN01",
-          "Time": "01:00 PM - 02:00 PM",
-          "Title": "PowerShell classes?"
+          "SessionId": "GEn02",
+          "Time": "01:00 PM - 01:45 PM",
+          "Title": "Introduction to Pester",
+          "Speaker": {
+            "Name": "Jakub Jares",
+            "Description": "Jakub is one of the owners of the Pester project, and he've been doing testing in PowerShell since before it was cool. He have several years of administrative experience mostly in banking environment, where He discovered Pester and started using it to test my own projects. Two years ago he moved to development, and so he can hopefully offer insight from the admin as well as developer point of view. he is also a Microsoft MVP for the past 4 years",
+            "ImageUrl": "https://github.com/PowerShellAsia/2018Website/blob/master/Pictures/JakubJares.jpeg?raw=true",
+            "Social": {
+              "Twitter": "http://www.twitter.com/nohwnd"
+            }
+          }
         },
         {
-          "SessionId": "GEN02",
-          "Time": "2:15 PM - 3:15 PM",
-          "Title": "Knock, knock, knock - Linux at your door"
+          "SessionId": "GEn03",
+          "Time": "2:00 PM - 2:45 PM",
+          "Title": "Beyond Pester 101: Applying testing principles to PowerShell",
+          "Speaker": {
+            "Name": "Glenn Sarti",
+            "Description": "Windows Software and Infrastructure Developer.With a penchant for DevOps, Puppet, Neo4j or anything Windows related.",
+            "ImageUrl": "https://github.com/PowerShellAsia/2018Website/blob/master/Pictures/glennsarti.jpeg?raw=true",
+            "Social": {
+              "Twitter": "http://www.twitter.com/glennsarti"
+            }
+          }
         },
         {
-          "SessionId": "Common6",
-          "Time": "3:30 PM - 4:00 PM",
+          "SessionId": "Common4",
+          "Time": "3:00 PM - 3:30 PM",
           "Title": "Break"
         },
         {
-          "SessionId": "GEN03",
-          "Time": "4:00 PM - 5:00 PM",
-          "Title": "Dependencies, how to make them evident"
+          "SessionId": "GEn04",
+          "Time": "3:30 PM - 4:15 PM",
+          "Title": "Securely Scripting PowerShell",
+          "Speaker": {
+            "Name": "Jeff Hicks",
+            "Description": "IT Pro veteran, Microsoft MVP, author, teacher, speaker, Pluralsight author. AKA Prof. PowerShell Emeritus, and Lax/Hockey/Dance Dad.",
+            "ImageUrl": "https://github.com/PowerShellAsia/2018Website/blob/master/Pictures/JefferyHicks.jpg?raw=true",
+            "Social": {
+              "Twitter": "http://www.twitter.com/JeffHicks"
+            }
+          }
         },
         {
-          "SessionId": "GEN04",
-          "Time": "5:15 PM - 6:15 PM",
-          "Title": "Working Faster & Smarter with PowerShell"
+          "SessionId": "GEn05",
+          "Time": "4:30 PM - 5:15 PM",
+          "Title": "PowerShell for the Masses",
+          "Speaker": {
+            "Name": "Jason Yoder",
+            "Description": "Jason Yoder is a Microsoft Certified Trainer and international conference speaker who has delivered over 100 PowerShell class worldwide.  Jason combines his experience as a Network Administrator, his education as a Computer Scientist, and as an MCSE to show his students how to develop real solutions to real problems using Windows PowerShell.  Jason is the Author of Advanced Windows PowerShell Scripting video training series with O'Reilly media and the Technical Reviewer for Microsoft's official instructor led PowerShell Training.",
+            "ImageUrl": "https://github.com/PowerShellAsia/2018Website/blob/master/Pictures/Jason1.png?raw=true",
+            "Social": {
+              "Twitter": "http://www.twitter.com/JasonYoder_MCT"
+            }
+          }
         },
         {
-          "SessionId": "Common8",
-          "Time": "6:15 PM - 6:30 PM",
+          "SessionId": "Common5",
+          "Time": "5:30 PM - 6:00 PM",
           "Title": "Day Close-up"
         },
         {
-          "SessionId": "Common9",
+          "SessionId": "Common6",
           "Time": "6:30 PM - 10:00 PM",
           "Title": "Networking Event - FREE BEER!!"
         }
@@ -298,82 +434,136 @@
 
   "Tracks2": [
     {
-      "Day": "28 October 2017",
-      "Name": "DevOps & Cloud Track",
+      "Day": "20 October 2018",
+      "Name": "CloudyDevOps ",
       "Sessions": [
         {
-          "SessionId": "Common1",
-          "Time": "8:30 AM - 9:30 AM",
-          "Title": "Kickoff session Day 2"
-        },
-        {
           "SessionId": "DEV01",
-          "Time": "9:45 AM - 10:45 AM",
-          "Title": "PowerShell on IoT",
+          "Time": "9:00 AM - 9:45 AM",
+          "Title": "",
           "Speaker": {
-            "Name": "Senthamil Selvan",
-            "Description": "Microsoft Windows Dev MVP. Have experience in developing apps for windows platform. Developed several UWP apps and currently working on HoloLens apps.",
-            "ImageUrl": "~/images/sen.jpg",
+            "Name": " ",
+            "Description": "",
+            "ImageUrl": "",
             "Social": {
-              "Twitter": "www.twitter.com/altfo"
+              "Twitter": ""
             }
           }
         },
         {
           "SessionId": "DEV02",
-          "Time": "11:00 AM - 12:00 PM",
-          "Title": "Creating PowerShell cmdlets"
-        },
-        {
-          "SessionId": "Common2",
-          "Time": "12:00 PM - 01:00 PM",
-          "Title": "Lunch"
+          "Time": "10:00 AM - 10:45 AM",
+          "Title": "Powershell with Microsoft Teams",
+          "Speaker": {
+            "Name": "Senthamil Selvan",
+            "Description": "Microsoft Windows Dev MVP. Have experience in developing apps for windows platform. Developed several UWP apps and currently working on HoloLens apps.",
+            "ImageUrl": "~/images/sen.jpg",
+            "Social": {
+              "Blog": "http://altfo.wordpress.com",
+              "Twitter": "http://www.twitter.com/altfo"
+            }
+          }
         },
         {
           "SessionId": "DEV03",
-          "Time": "01:00 PM - 02:00 PM",
-          "Title": "Core, Containers and Performance Graphics"
+          "Time": "11:00 AM - 11:45 PM",
+          "Title": "Creating a complete pipeline in as few questions as possible.",
+          "Speaker": {
+            "Name": "Pat Hermens",
+            "Description": "Development Manager at @Coolblue_NL. Husband + father of 2 amazing kids. A loud Aussie that’s been living in NL for a few years (& still learning Dutch)",
+            "ImageUrl": "https://github.com/PowerShellAsia/2018Website/blob/master/Pictures/phermens.jpg?raw=true",
+            "Social": {
+              "Twitter": "http://www.twitter.com/phermens"
+            }
+          }
+        },
+        {
+          "SessionId": "Common2",
+          "Time": "12:00 PM - 01:00 PM",
+          "Title": "Lunch"
         },
         {
           "SessionId": "DEV04",
-          "Time": "2:15 PM - 3:15 PM",
-          "Title": "PowerShell with Azure iOT Hub"
-        },
-        {
-          "SessionId": "Common3",
-          "Time": "3:30 PM - 4:00 PM",
-          "Title": "Break"
+          "Time": "01:00 PM - 01:45 PM",
+          "Title": "Get control of your Git: Managing PS module binaries using VSTS CI/CD and package management",
+          "Speaker": {
+            "Name": "Adam Murray",
+            "Description": "I am a doer, an optimist, and a technologist. With 20 years of experience in corporate IT and one startup behind me, I’ve recently embarked on my second startup, Tikabu, which provides premium consulting services in secure DevOps. Focusing on clients with a predominantly Microsoft technology stack, we help our customers become more agile at delivering solutions to their customers.I’ve been passionate about PowerShell since its beta days. I recognised the potential and flexibility it gave me compared with the tools I started out with in automation, such as Kix and VBScript. Today, I remain a staunch PowerShell devotee; I’ve presented on the scripting language at user groups and am a two-time winner of the Quest PowerPack Challenge. PowerShell has become an integral part of the solutions that I develop day to day. Throughout my career, I’ve served in both technical and people-management positions across the financial sector. My electrical-engineering degree has provided a strong foundation for the analytical and troubleshooting talents necessary for a successful IT career, and my MBA and additional continuing education have given me a broader and more well-informed business outlook. My ongoing thirst for technical knowledge has led to a thorough understanding of technology at all levels. More than just a vocation, technology is my passion both in and out of the workplace.",
+            "ImageUrl": "https://github.com/PowerShellAsia/2018Website/blob/master/Pictures/adammurray.jpeg?raw=true",
+            "Social": {
+              "Twitter": "http://www.twitter.com/muzzar78"
+            }
+          }
         },
         {
           "SessionId": "DEV05",
-          "Time": "4:00 PM - 5:00 PM",
-          "Title": "Build a continuous delivery platform for your PowerShell scripts and modules"
+          "Time": "2:00 PM - 2:45 PM",
+          "Title": ""
+        },
+        {
+          "SessionId": "Common3",
+          "Time": "3:00 PM - 3:30 PM",
+          "Title": "Break"
+        },
+        {
+          "SessionId": "DEV06",
+          "Time": "3:30 PM - 4:15 PM",
+          "Title": ""
+        },
+        {
+          "SessionId": "DEV07",
+          "Time": "4:30 PM - 5:15 PM",
+          "Title": ""
         },
         {
           "SessionId": "Common4",
-          "Time": "5:15 PM - 6:15 PM",
-          "Title": "Closing Panel / Session / PowerShell Team?"
+          "Time": "5:30 PM - 6:00 PM",
+          "Title": "Closing Panel / Session"
         }
       ]
     },
     {
-      "Day": "28 October 2017",
-      "Name": "DevOps & Security Track",
+      "Day": "20 October 2018",
+      "Name": "DSC, Conf mgmt & Bi",
       "Sessions": [
         {
-          "SessionId": "Common1",
-          "Time": "8:30 AM - 9:30 AM",
-          "Title": "Kickoff session Day 2"
-        },
-        {
           "SessionId": "SEC01",
-          "Time": "9:45 AM - 10:45 AM",
-          "Title": "PowerShell Security - All you need to know"
+          "Time": "9:00 AM - 9:45 AM",
+          "Title": "Visualising PowerShell output automaticaly in Power BI.",
+          "Speaker": {
+            "Name": "Alexander Holmeset",
+            "Description": "Alexander Holmeset is Cloud Consultant at CloudWay. He currently blogs at skype4bworld.wordpress.com. He is very passionate about unified communication and automation. He has an extensive background from customer care, and have an eye for understanding what the end user needs. Experienced with international spread videoconference systems, IP Telephony, end user training/support and advanced troubleshooting. Alexander´s focus is everything Skype for Business, Office 365 and automation with PowerShell. He will strive to deliver stable and user friendly solutions that meets customer requirements and help them start taking use of the advantages in Office 365.Certified in ITIL Foundation framework and is an MCSE Productivity.His motto is: If you are going to do something more than once, then automate it. ",
+            "ImageUrl": "https://github.com/PowerShellAsia/2018Website/blob/master/Pictures/AlexHolmeset.jpg?raw=true",
+            "Social": {
+              "Twitter": "http://www.twitter.com/AlexHolmeset"
+            }
+          }
         },
         {
           "SessionId": "SEC02",
-          "Time": "11:00 AM - 12:00 PM",
-          "Title": "Automated Offensive PowerShell APIness"
+          "Time": "10:00 AM - 10:45 AM",
+          "Title": "Automating your release pipeline with AutomatedLab and TFS",
+          "Speaker": {
+            "Name": "Jan-Hendrik Peters",
+            "Description": "Having worked at an international grocery chain for 4 years where I automated the deployment of over 20.000 nodes, I quickly developed my love for PowerShell, Desired State Configuration and automation in general. As a Microsoft, Premier Field Engineer I now help my customers adopt a DevOps style. This includes introducing DSC into their environment, developing release pipelines and generally automating things.",
+            "ImageUrl": "https://github.com/PowerShellAsia/2018Website/blob/master/Pictures/JanPeters.jpg?raw=true",
+            "Social": {
+              "Twitter": "http://www.twitter.com/nyanhp"
+            }
+          }
+        },
+        {
+          "SessionId": "SEC03",
+          "Time": "11:00 AM - 11:45 PM",
+          "Title": "Build Your Own API BYOA - PowerShell for automation as service",
+          "Speaker": {
+            "Name": "Ravikanth Chaganti",
+            "Description": "Ravikanth is the founder and editor of the PowerShell Magazine. He is a multi-year recipient of Microsoft MVP aware and works at Dell EMC as a Senior Principal Systems Engineer. He blogs at http://www.ravichaganti.com/blog",
+            "ImageUrl": "https://github.com/PowerShellAsia/2018Website/blob/master/Pictures/ravi.jpeg?raw=true",
+            "Social": {
+              "Twitter": "http://www.twitter.com/ravikanth"
+            }
+          }
         },
         {
           "SessionId": "Common2",
@@ -381,50 +571,71 @@
           "Title": "Lunch"
         },
         {
-          "SessionId": "SEC03",
-          "Time": "01:00 PM - 02:00 PM",
-          "Title": "Automated DC Deployment at the BMW Group"
-        },
-        {
           "SessionId": "SEC04",
-          "Time": "2:15 PM - 3:15 PM",
-          "Title": "Meta PowerShell - Just A Layer of Convenience"
-        },
-        {
-          "SessionId": "Common3",
-          "Time": "3:30 PM - 4:00 PM",
-          "Title": "Break"
+          "Time": "01:00 PM - 01:45 PM",
+          "Title": ""
         },
         {
           "SessionId": "SEC05",
-          "Time": "4:00 PM - 5:00 PM",
-          "Title": "Mastering a complex DSC lab infrastructure � The story of the BMW Group DC deployment"
+          "Time": "2:00 PM - 2:45 PM",
+          "Title": ""
+        },
+        {
+          "SessionId": "Common3",
+          "Time": "3:00 PM - 3:30 PM",
+          "Title": "Break"
+        },
+        {
+          "SessionId": "SEC06",
+          "Time": "3:30 PM - 4:15 PM",
+          "Title": ""
+        },
+        {
+          "SessionId": "SEC07",
+          "Time": "4:30 PM - 5:15 PM",
+          "Title": ""
         },
         {
           "SessionId": "Common4",
-          "Time": "5:15 PM - 6:15 PM",
-          "Title": "Closing Panel / Session / PowerShell Team?"
+          "Time": "5:30 PM - 6:00 PM",
+          "Title": "Closing Panel / Session"
         }
       ]
     },
     {
       "Day": "28 October 2017",
-      "Name": "PowerShell Insider Track",
+      "Name": "PowerShell Deep dive",
       "Sessions": [
         {
-          "SessionId": "Common1",
-          "Time": "8:30 AM - 9:30 AM",
-          "Title": "Kickoff session Day 2"
-        },
-        {
           "SessionId": "GEN01",
-          "Time": "9:45 AM - 10:45 AM",
-          "Title": "vSphereDSC - resources for a foreign environment"
+          "Time": "9:00 AM - 9:45 AM",
+          "Title": "Carpe Shell : A PowerShell Workday",
+          "Speaker": {
+            "Name": "Jeff Hicks",
+            "Description": "IT Pro veteran, Microsoft MVP, author, teacher, speaker, Pluralsight author. AKA Prof. PowerShell Emeritus, and Lax/Hockey/Dance Dad.",
+            "ImageUrl": "https://github.com/PowerShellAsia/2018Website/blob/master/Pictures/JefferyHicks.jpg?raw=true",
+            "Social": {
+              "Twitter": "http://www.twitter.com/JeffHicks"
+            }
+          }
         },
         {
           "SessionId": "GEN02",
-          "Time": "11:00 AM - 12:00 PM",
-          "Title": "Infrastructure validation using Pester"
+          "Time": "10:00 AM - 10:45 AM",
+          "Title": "PowerShell Classes for Ops transitioning to Dev",
+          "Speaker": {
+            "Name": "Irwin Strachan",
+            "Description": "Irwin Strachan is a technical consultant at OLGREEN and passionately curious about PowerShell, Automation and Microsoft-based technologies.",
+            "ImageUrl": "https://github.com/PowerShellAsia/2018Website/blob/master/Pictures/IrwinStrachan.jpg?raw=true",
+            "Social": {
+              "Twitter": "http://www.twitter.com/IrwinStrachan "
+            }
+          }
+        },
+        {
+          "SessionId": "GEN03",
+          "Time": "11:00 AM - 11:45 PM",
+          "Title": ""
         },
         {
           "SessionId": "Common2",
@@ -432,31 +643,60 @@
           "Title": "Lunch"
         },
         {
-          "SessionId": "GEN03",
-          "Time": "01:00 PM - 02:00 PM",
-          "Title": "PowerShell Yin-Yang: the worst practices and tips & tricks"
-        },
-        {
           "SessionId": "GEN04",
-          "Time": "2:15 PM - 3:15 PM",
-          "Title": "Yo Bro! Do you even Parameterize?"
-        },
-        {
-          "SessionId": "Common3",
-          "Time": "3:30 PM - 4:00 PM",
-          "Title": "Break"
+          "Time": "01:00 PM - 01:45 PM",
+          "Title": "How do I test that?",
+          "Speaker": {
+            "Name": "Jakub Jares",
+            "Description": "Jakub is one of the owners of the Pester project, and he've been doing testing in PowerShell since before it was cool. He have several years of administrative experience mostly in banking environment, where He discovered Pester and started using it to test my own projects. Two years ago he moved to development, and so he can hopefully offer insight from the admin as well as developer point of view. he is also a Microsoft MVP for the past 4 years",
+            "ImageUrl": "https://github.com/PowerShellAsia/2018Website/blob/master/Pictures/JakubJares.jpeg?raw=true",
+            "Social": {
+              "Twitter": "http://www.twitter.com/nohwnd"
+            }
+          }
         },
         {
           "SessionId": "GEN05",
-          "Time": "4:00 PM - 5:00 PM",
-          "Title": "SQL Server Loves PowerShell - dbatools"
+          "Time": "2:00 PM - 2:45 PM",
+          "Title": ""
+        },
+        {
+          "SessionId": "Common3",
+          "Time": "3:00 PM - 3:30 PM",
+          "Title": "Break"
+        },
+        {
+          "SessionId": "GEN06",
+          "Time": "3:30 PM - 4:15 PM",
+          "Title": "The PowerShell ToolKit - giving your tools a home",
+          "Speaker": {
+            "Name": "Friedrich Weinmann",
+            "Description": "An IT analyst/administrator, performing a wide variety of tasks, using PowerShell wherever possible. Also by hobby a developer and scripter, for the fun of it.",
+            "ImageUrl": "https://github.com/PowerShellAsia/2018Website/blob/master/Pictures/FredWeinmann.jpg?raw=true",
+            "Social": {
+              "Twitter": "http://www.twitter.com/FredWeinmann"
+            }
+          }
+        },
+        {
+          "SessionId": "GEN07",
+          "Time": "4:30 PM - 5:15 PM",
+          "Title": "Building GUIs using PowerShell",
+          "Speaker": {
+            "Name": "Rakesh K. Kethineedi",
+            "Description": "Rakesh has been automating things for over 10 years. He is a developer-cum-scripting guy who loves PowerShell, IoT and Automation on the Cloud. He has worked on various technologies and driven number of Automation projects spreading across domains like Server Administration and Software Testing. He believes in adding quality to people's lives through automation.",
+            "ImageUrl": "https://github.com/PowerShellAsia/2018Website/blob/master/Pictures/Rakesh.jpeg?raw=true",
+            "Social": {
+              "Twitter": "http://www.twitter.com/rakeshkarthikk"
+            }
+          }
         },
         {
           "SessionId": "Common4",
-          "Time": "5:15 PM - 6:15 PM",
-          "Title": "Closing Panel / Session / PowerShell Team?"
+          "Time": "5:30 PM - 6:00 PM",
+          "Title": "Closing Panel / Session"
         }
       ]
     }
-  ]
-}
+          ]
+        }

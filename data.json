@@ -97,6 +97,12 @@
       "Image": "https://github.com/PowerShellAsia/2018Website/blob/master/Pictures/Manninglogo.png?raw=true",
       "Link": "https://www.manning.com/",
       "Category": ""
+    },
+    {
+      "Name": "Rubrik",
+      "Image": "https://github.com/PowerShellAsia/2018Website/blob/master/Pictures/rubrik.png?raw=true",
+      "Link": "https://www.rubrik.com/",
+      "Category": ""
     }
   ],
   "Prizes": [

@@ -97,7 +97,8 @@
       "Image": "https://github.com/PowerShellAsia/2018Website/blob/master/Pictures/Rubrik.png?raw=true",
       "Link": "https://www.rubrik.com/",
       "Category": ""
-    },{
+    },
+    {
       "Name": "Manning Publications",
       "Image": "https://github.com/PowerShellAsia/2018Website/blob/master/Pictures/Manninglogo.png?raw=true",
       "Link": "https://www.manning.com/",
@@ -503,7 +504,15 @@
         {
           "SessionId": "DEV05",
           "Time": "2:00 PM - 2:45 PM",
-          "Title": ""
+          "Title": "From Swagger to PS Module, Lesson learned",
+          "Speaker": {
+            "Name": " Kyle Ruddy",
+            "Description": "yle Ruddy is a Senior Technical Marketing Engineer working for VMware R&D in the Cloud Platform Business Unit. Kyle currently focuses on vSphere automation and the associated automation frameworks including all things API, CLI, and SDK. Kyle can be found blogging on VMware blogs, http://blogs.vmware.com/vSphere and http://blogs.vmware.com/PowerCLI, and his personal blog, http://www.thatcouldbeaproblem.com",
+            "ImageUrl": "https://github.com/PowerShellAsia/2018Website/blob/master/Pictures/KyleRuddy.jpg?raw=true",
+            "Social": {
+              "Twitter": "http://www.twitter.com/kmruddy"
+            }
+          }
         },
         {
           "SessionId": "Common3",

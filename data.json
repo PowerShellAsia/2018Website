@@ -587,7 +587,15 @@
         {
           "SessionId": "SEC04",
           "Time": "01:00 PM - 01:45 PM",
-          "Title": ""
+          "Title": "Trend Analysis of SQL Server Logs using Powershell!",
+          "Speaker": {
+            "Name": "Dharmendra Keshari",
+            "Description": "Dharmendra Keshari is a SQL Server enthusiast currently working as Senior Database Administrator for Micron Technology, Inc, Singapore. He is so much fascinated by Database engine and its complexities, he made it as part and parcel of his life. Dharmendra likes working on Database internals, SQL Server memory and has good knowledge  on performance troubleshooting of SQL Server. He is an avid, regular mentor on social media, helping several enthusiast in solving problems related to Database management. As a active member of SQL Server community, Dharmendra leads Singapore SQL Server Pass Chapter (User group). He continues to deliver sessions across the globe educating people on Microsoft Data Platform and blogs at http://www.dharmendrakeshari.com/",
+            "ImageUrl": "https://github.com/PowerShellAsia/2018Website/blob/master/Pictures/Dharmendra.jpg?raw=true",
+            "Social": {
+              "Twitter": "http://www.twitter.com/Sachit_Keshari"
+            }
+          }
         },
         {
           "SessionId": "SEC05",

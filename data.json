@@ -227,11 +227,11 @@
           "Time": "9:00 AM - 9:45 AM",
           "Title": "KeyNote",
           "Speaker": {
-            "Name": "",
-            "Description": "",
-            "ImageUrl": "",
+            "Name": "Jeffrey Snover",
+            "Description": "Jeffrey Snover: Microsoft Technical Fellow / Chief Architect for Azure Storage & Cloud/ Azure Stack Architect / PowerShell Inventor / Science geek.",
+            "ImageUrl": "https://github.com/PowerShellAsia/2018Website/blob/master/Pictures/jsnover.jpg?raw=true",
             "Social": {
-              "Twitter": ""
+              "Twitter": "http://www.twitter.com/jsnover"
             }
           }
         },
@@ -336,11 +336,11 @@
           "Time": "9:00 AM - 9:45 AM",
           "Title": "KeyNote",
           "Speaker": {
-            "Name": "",
-            "Description": "",
-            "ImageUrl": "",
+            "Name": "Jeffrey Snover",
+            "Description": "Jeffrey Snover: Microsoft Technical Fellow / Chief Architect for Azure Storage & Cloud/ Azure Stack Architect / PowerShell Inventor / Science geek.",
+            "ImageUrl": "https://github.com/PowerShellAsia/2018Website/blob/master/Pictures/jsnover.jpg?raw=true",
             "Social": {
-              "Twitter": ""
+              "Twitter": "http://www.twitter.com/jsnover"
             }
           }
         },

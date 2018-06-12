@@ -634,8 +634,8 @@
           "Title": "Carpe Shell : A PowerShell Workday",
           "Speaker": {
             "Name": "Jeff Hicks",
-            "Description": "IT Pro veteran, Microsoft MVP, author, teacher, speaker, Pluralsight author. AKA Prof. PowerShell Emeritus, and Lax/Hockey/Dance Dad.",
-            "ImageUrl": "https://github.com/PowerShellAsia/2018Website/blob/master/Pictures/JefferyHicks.jpg?raw=true",
+            "Description": "Jeffery Hicks is an IT veteran with almost 30 years of experience, much of it spent as an IT infrastructure consultant specializing in Microsoft server technologies with an emphasis in automation and efficiency. He is a multi-year recipient of the Microsoft MVP Award.  He works today as an independent author, teacher and consultant. Jeff has taught and presented on PowerShell and the benefits of automation to IT Pros worldwide. He has authored and co-authored a number of books, writes for numerous online sites and print publications, is a contributing editor at Petri.com, a Pluralsight author, and a frequent speaker at technology conferences and user groups.",
+            "ImageUrl": "https://github.com/PowerShellAsia/2018Website/blob/master/Pictures/JeffHicks.png?raw=true",
             "Social": {
               "Twitter": "http://www.twitter.com/JeffHicks"
             }

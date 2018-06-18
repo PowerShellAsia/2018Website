@@ -600,7 +600,15 @@
         {
           "SessionId": "SEC05",
           "Time": "2:00 PM - 2:45 PM",
-          "Title": ""
+          "Title": "PowerShell Core working with SQL Server Management Objects (SMO) Cross-platform",
+          "Speaker": {
+            "Name": "Maximo Trinidad",
+            "Description": "Recently joined SAPIENS Technologies as their Technonogy Evangelist for their PowerShell and Scripting Tools line of products. Involved with SQL Server Technologies, and Microsoft Cloud Technologies. Microsoft PowerShell MVP since 2009, MVP SAPIEN Technologies, and IDERA ACE 2017.  Active Florida speaker at SQLSaturday, IT Pro and .NET camps events. ",
+            "ImageUrl": "https://github.com/PowerShellAsia/2018Website/blob/master/Pictures/MaximoTrinidad.jpg?raw=true",
+            "Social": {
+              "Twitter": "http://www.twitter.com/MaxTrinidad"
+            }
+          }
         },
         {
           "SessionId": "Common3",

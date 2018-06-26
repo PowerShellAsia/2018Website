@@ -137,7 +137,7 @@
           "Title": "PowerShell IoT: A new frontier for PowerShell, live coding included",
           "Speaker": {
             "Name": "Tyler Leonhardt",
-            "Description": "Tyler is a developer on the PowerShell team at Microsoft. He's the current maintainer of the VSCode extension and PowerShell Editor Services and also one of the developers who work on PowerShell IoT - the module for interacting with sensors and devices like the Raspberry Pi.He's a developer experience nut, loves coffee and loves to customize mechanical keyboards.",
+            "Description": "Tyler is a developer on the PowerShell team at Microsoft. He's the current maintainer of the VSCode extension and PowerShell Editor Services and also one of the developers who work on PowerShell IoT - the module for interacting with sensors and devices like the Raspberry Pi. He's a developer experience nut, loves coffee and loves to customize mechanical keyboards.",
             "ImageUrl": "https://github.com/PowerShellAsia/2018Website/blob/master/Pictures/TylerLeonhardt.jpg?raw=true",
             "Social": {
               "Twitter": "http://www.twitter.com/TylerLeonhardt"
@@ -199,7 +199,7 @@
           "Title": "PowerShell for SharePoint Online - Making SharePoint Admins feel loved again",
           "Speaker": {
             "Name": "Rick Taylor",
-            "Description": "Rick is a SharePoint architect and has assisted numerous, large companies in their implementations including the US Air Force, Charles Schwab, and Nestle. He is a former Microsoft engineer and has worked on the SharePoint Engineering team as well as the OpsCon division dealing with ITSM and Governance. He is a published author, co-author, and contributing author. His influence within the MCT and SharePoint communities facilitated his being selected to present at the first MCT Community Summit held in Zurich, Switzerland . Rick is currently a DevOps Engineer for ZAACT. Rick currently resides in the Phoenix, AZ area where he is an avid triathlete (Clydesdale class), and active in the Boy Scouts of America",
+            "Description": "Rick is a SharePoint architect and has assisted numerous, large companies in their implementations including the US Air Force, Charles Schwab, and Nestle. He is a former Microsoft engineer and has worked on the SharePoint Engineering team as well as the OpsCon division dealing with ITSM and Governance. He is a published author, co-author, and contributing author. His influence within the MCT and SharePoint communities facilitated his being selected to present at the first MCT Community Summit held in Zurich, Switzerland. Rick is currently a DevOps Engineer for ZAACT. Rick currently resides in the Phoenix, AZ area where he is an avid triathlete (Clydesdale class), and active in the Boy Scouts of America",
             "ImageUrl": "https://github.com/PowerShellAsia/2018Website/blob/master/Pictures/RickTaylor.jpg?raw=true",
             "Social": {
               "Twitter": "http://www.twitter.com/slkrck"
@@ -274,10 +274,10 @@
         {
           "SessionId": "SEC03",
           "Time": "2:00 PM - 2:45 PM",
-          "Title": "Geting started with integration of PowerShell and Power BI.",
+          "Title": "Getting started with integration of PowerShell and Power BI.",
           "Speaker": {
             "Name": "Alexander Holmeset",
-            "Description": "Alexander Holmeset is Cloud Consultant at CloudWay. He currently blogs at skype4bworld.wordpress.com. He is very passionate about unified communication and automation. He has an extensive background from customer care, and have an eye for understanding what the end user needs. Experienced with international spread videoconference systems, IP Telephony, end user training/support and advanced troubleshooting. Alexander´s focus is everything Skype for Business, Office 365 and automation with PowerShell. He will strive to deliver stable and user friendly solutions that meets customer requirements and help them start taking use of the advantages in Office 365.Certified in ITIL Foundation framework and is an MCSE Productivity.His motto is: If you are going to do something more than once, then automate it.",
+            "Description": "Alexander Holmeset is Cloud Consultant at CloudWay. He currently blogs at skype4bworld.wordpress.com. He is very passionate about unified communication and automation. He has an extensive background from customer care and have an eye for understanding what the end user needs. Experienced with international spread videoconference systems, IP Telephony, end user training/support and advanced troubleshooting. Alexander´s focus is everything Skype for Business, Office 365 and automation with PowerShell. He will strive to deliver stable and user-friendly solutions that meets customer requirements and help them start taking use of the advantages in Office 365. Certified in ITIL Foundation framework and is an MCSE Productivity. His motto is: If you are going to do something more than once, then automate it.",
             "ImageUrl": "https://github.com/PowerShellAsia/2018Website/blob/master/Pictures/AlexHolmeset.jpg?raw=true",
             "Social": {
               "Twitter": "http://www.twitter.com/AlexHolmeset"
@@ -298,7 +298,7 @@
             "Description": "Irwin Strachan is a technical consultant at OLGREEN and passionately curious about PowerShell, Automation and Microsoft-based technologies.",
             "ImageUrl": "https://github.com/PowerShellAsia/2018Website/blob/master/Pictures/IrwinStrachan.jpg?raw=true",
             "Social": {
-              "Twitter": "http://www.twitter.com/IrwinStrachan "
+              "Twitter": "http://www.twitter.com/IrwinStrachan"
             }
           }
         },
@@ -373,7 +373,7 @@
           "Title": "Introduction to Pester",
           "Speaker": {
             "Name": "Jakub Jares",
-            "Description": "Jakub is one of the owners of the Pester project, and he've been doing testing in PowerShell since before it was cool. He have several years of administrative experience mostly in banking environment, where He discovered Pester and started using it to test my own projects. Two years ago he moved to development, and so he can hopefully offer insight from the admin as well as developer point of view. he is also a Microsoft MVP for the past 4 years",
+            "Description": "Jakub is one of the owners of the Pester project, and he've been doing testing in PowerShell since before it was cool. He has several years of administrative experience mostly in banking environment, where He discovered Pester and started using it to test my own projects. Two years ago, he moved to development, and so he can hopefully offer insight from the admin as well as developer point of view. he is also a Microsoft MVP for the past 4 years",
             "ImageUrl": "https://github.com/PowerShellAsia/2018Website/blob/master/Pictures/JakubJares.jpeg?raw=true",
             "Social": {
               "Twitter": "http://www.twitter.com/nohwnd"
@@ -386,7 +386,7 @@
           "Title": "Beyond Pester 101: Applying testing principles to PowerShell",
           "Speaker": {
             "Name": "Glenn Sarti",
-            "Description": "Windows Software and Infrastructure Developer.With a penchant for DevOps, Puppet, Neo4j or anything Windows related.",
+            "Description": "Windows Software and Infrastructure Developer. With a penchant for DevOps, Puppet, Neo4j or anything Windows related.",
             "ImageUrl": "https://github.com/PowerShellAsia/2018Website/blob/master/Pictures/glennsarti.jpeg?raw=true",
             "Social": {
               "Twitter": "http://www.twitter.com/glennsarti"
@@ -459,7 +459,7 @@
         {
           "SessionId": "DEV02",
           "Time": "10:00 AM - 10:45 AM",
-          "Title": "Powershell with Microsoft Teams",
+          "Title": "PowerShell with Microsoft Teams",
           "Speaker": {
             "Name": "Senthamil Selvan",
             "Description": "Microsoft Windows Dev MVP. Have experience in developing apps for windows platform. Developed several UWP apps and currently working on HoloLens apps.",
@@ -494,7 +494,7 @@
           "Title": "Get control of your Git: Managing PS module binaries using VSTS CI/CD and package management",
           "Speaker": {
             "Name": "Adam Murray",
-            "Description": "I am a doer, an optimist, and a technologist. With 20 years of experience in corporate IT and one startup behind me, I've recently embarked on my second startup, Tikabu, which provides premium consulting services in secure DevOps. Focusing on clients with a predominantly Microsoft technology stack, we help our customers become more agile at delivering solutions to their customers.I’ve been passionate about PowerShell since its beta days. I recognised the potential and flexibility it gave me compared with the tools I started out with in automation, such as Kix and VBScript. Today, I remain a staunch PowerShell devotee; I’ve presented on the scripting language at user groups and am a two-time winner of the Quest PowerPack Challenge. PowerShell has become an integral part of the solutions that I develop day to day. Throughout my career, I’ve served in both technical and people-management positions across the financial sector. My electrical-engineering degree has provided a strong foundation for the analytical and troubleshooting talents necessary for a successful IT career, and my MBA and additional continuing education have given me a broader and more well-informed business outlook. My ongoing thirst for technical knowledge has led to a thorough understanding of technology at all levels. More than just a vocation, technology is my passion both in and out of the workplace.",
+            "Description": "I am a doer, an optimist, and a technologist. With 20 years of experience in corporate IT and one start-up behind me, I've recently embarked on my second start-up, Tikabu, which provides premium consulting services in secure DevOps. Focusing on clients with a predominantly Microsoft technology stack, we help our customers become more agile at delivering solutions to their customers. I've been passionate about PowerShell since its beta days. I recognised the potential and flexibility it gave me compared with the tools I started out with in automation, such as Kix and VBScript. Today, I remain a staunch PowerShell devotee; I’ve presented on the scripting language at user groups and am a two-time winner of the Quest PowerPack Challenge. PowerShell has become an integral part of the solutions that I develop day to day. Throughout my career, I’ve served in both technical and people-management positions across the financial sector. My electrical-engineering degree has provided a strong foundation for the analytical and troubleshooting talents necessary for a successful IT career, and my MBA and additional continuing education have given me a broader and more well-informed business outlook. My ongoing thirst for technical knowledge has led to a thorough understanding of technology at all levels. More than just a vocation, technology is my passion both in and out of the workplace.",
             "ImageUrl": "https://github.com/PowerShellAsia/2018Website/blob/master/Pictures/adammurray.jpeg?raw=true",
             "Social": {
               "Twitter": "http://www.twitter.com/muzzar78"
@@ -546,7 +546,7 @@
           "Title": "Visualising PowerShell output automaticaly in Power BI.",
           "Speaker": {
             "Name": "Alexander Holmeset",
-            "Description": "Alexander Holmeset is Cloud Consultant at CloudWay. He currently blogs at skype4bworld.wordpress.com. He is very passionate about unified communication and automation. He has an extensive background from customer care, and have an eye for understanding what the end user needs. Experienced with international spread videoconference systems, IP Telephony, end user training/support and advanced troubleshooting. Alexander´s focus is everything Skype for Business, Office 365 and automation with PowerShell. He will strive to deliver stable and user friendly solutions that meets customer requirements and help them start taking use of the advantages in Office 365.Certified in ITIL Foundation framework and is an MCSE Productivity.His motto is: If you are going to do something more than once, then automate it. ",
+            "Description": "Alexander Holmeset is Cloud Consultant at CloudWay. He currently blogs at skype4bworld.wordpress.com. He is very passionate about unified communication and automation. He has an extensive background from customer care and have an eye for understanding what the end user needs. Experienced with international spread videoconference systems, IP Telephony, end user training/support and advanced troubleshooting. Alexander´s focus is everything Skype for Business, Office 365 and automation with PowerShell. He will strive to deliver stable and user-friendly solutions that meets customer requirements and help them start taking use of the advantages in Office 365. Certified in ITIL Foundation framework and is an MCSE Productivity. His motto is: If you are going to do something more than once, then automate it.",
             "ImageUrl": "https://github.com/PowerShellAsia/2018Website/blob/master/Pictures/AlexHolmeset.jpg?raw=true",
             "Social": {
               "Twitter": "http://www.twitter.com/AlexHolmeset"
@@ -572,7 +572,7 @@
           "Title": "Build Your Own API BYOA - PowerShell for automation as service",
           "Speaker": {
             "Name": "Ravikanth Chaganti",
-            "Description": "Ravikanth is the founder and editor of the PowerShell Magazine. He is a multi-year recipient of Microsoft MVP aware and works at Dell EMC as a Senior Principal Systems Engineer. He blogs at http://www.ravichaganti.com/blog",
+            "Description": "Ravikanth is the founder and editor of the PowerShell Magazine. He is a multi-year recipient of Microsoft MVP award and works at Dell EMC as a Senior Principal Systems Engineer. He blogs at http://www.ravichaganti.com/blog",
             "ImageUrl": "https://github.com/PowerShellAsia/2018Website/blob/master/Pictures/ravi.jpeg?raw=true",
             "Social": {
               "Twitter": "http://www.twitter.com/ravikanth"
@@ -587,10 +587,10 @@
         {
           "SessionId": "SEC04",
           "Time": "01:00 PM - 01:45 PM",
-          "Title": "Trend Analysis of SQL Server Logs using Powershell!",
+          "Title": "Trend Analysis of SQL Server Logs using PowerShell!",
           "Speaker": {
             "Name": "Dharmendra Keshari",
-            "Description": "Dharmendra Keshari is a SQL Server enthusiast currently working as Senior Database Administrator for Micron Technology, Inc, Singapore. He is so much fascinated by Database engine and its complexities, he made it as part and parcel of his life. Dharmendra likes working on Database internals, SQL Server memory and has good knowledge  on performance troubleshooting of SQL Server. He is an avid, regular mentor on social media, helping several enthusiast in solving problems related to Database management. As a active member of SQL Server community, Dharmendra leads Singapore SQL Server Pass Chapter (User group). He continues to deliver sessions across the globe educating people on Microsoft Data Platform and blogs at http://www.dharmendrakeshari.com/",
+            "Description": "Dharmendra Keshari is a SQL Server enthusiasts currently working as Senior Database Administrator for Micron Technology, Inc, Singapore. He is so much fascinated by Database engine and its complexities, he made it as part and parcel of his life. Dharmendra likes working on Database internals, SQL Server memory and has good knowledge on performance troubleshooting of SQL Server. He is an avid, regular mentor on social media, helping several enthusiast in solving problems related to Database management. As a active member of SQL Server community, Dharmendra leads Singapore SQL Server Pass Chapter (User group). He continues to deliver sessions across the globe educating people on Microsoft Data Platform and blogs at http://www.dharmendrakeshari.com/",
             "ImageUrl": "https://github.com/PowerShellAsia/2018Website/blob/master/Pictures/Dharmendra.jpg?raw=true",
             "Social": {
               "Twitter": "http://www.twitter.com/Sachit_Keshari"
@@ -603,7 +603,7 @@
           "Title": "PowerShell Core working with SQL Server Management Objects (SMO) Cross-platform",
           "Speaker": {
             "Name": "Maximo Trinidad",
-            "Description": "Recently joined SAPIENS Technologies as their Technonogy Evangelist for their PowerShell and Scripting Tools line of products. Involved with SQL Server Technologies, and Microsoft Cloud Technologies. Microsoft PowerShell MVP since 2009, MVP SAPIEN Technologies, and IDERA ACE 2017.  Active Florida speaker at SQLSaturday, IT Pro and .NET camps events. ",
+            "Description": "Recently joined SAPIENS Technologies as their Technology Evangelist for their PowerShell and Scripting Tools line of products. Involved with SQL Server Technologies, and Microsoft Cloud Technologies. Microsoft PowerShell MVP since 2009, MVP SAPIEN Technologies, and IDERA ACE 2017.  Active Florida speaker at SQLSaturday, IT Pro and .NET camps events. ",
             "ImageUrl": "https://github.com/PowerShellAsia/2018Website/blob/master/Pictures/MaximoTrinidad.jpg?raw=true",
             "Social": {
               "Twitter": "http://www.twitter.com/MaxTrinidad"
@@ -658,7 +658,7 @@
             "Description": "Irwin Strachan is a technical consultant at OLGREEN and passionately curious about PowerShell, Automation and Microsoft-based technologies.",
             "ImageUrl": "https://github.com/PowerShellAsia/2018Website/blob/master/Pictures/IrwinStrachan.jpg?raw=true",
             "Social": {
-              "Twitter": "http://www.twitter.com/IrwinStrachan "
+              "Twitter": "http://www.twitter.com/IrwinStrachan"
             }
           }
         },
@@ -668,7 +668,7 @@
           "Title": "Easing the deployment for Just Enough Administration: JEA.complexity = $false",
           "Speaker": {
             "Name": "Miriam Wiesner",
-            "Description": "Miriam Wiesner works as Premier Field Engineer for Secure Infrastructure at Microsoft. Delivering security assessments and custom engagements, she is confronted on a daily basis with security challenges from customers all over the world. Prior to her time as PFE, she worked as an administrator, as a software developer, as a system engineer and as a security consultant, building her own penetration testing department.In her spare time she enjoys writing articles for her TechNet and her private blog. Responds to the nickname 'xyra'.",
+            "Description": "Miriam Wiesner works as Premier Field Engineer for Secure Infrastructure at Microsoft. Delivering security assessments and custom engagements, she is confronted on a daily basis with security challenges from customers all over the world. Prior to her time as PFE, she worked as an administrator, as a software developer, as a system engineer and as a security consultant, building her own penetration testing department. In her spare time she enjoys writing articles for her TechNet and her private blog. Responds to the nickname 'xyra'.",
             "ImageUrl": "https://github.com/PowerShellAsia/2018Website/blob/master/Pictures/Miriam.jpg?raw=true",
             "Social": {
               "Twitter": "http://www.twitter.com/MiriamXyra"
@@ -686,7 +686,7 @@
           "Title": "How do I test that?",
           "Speaker": {
             "Name": "Jakub Jares",
-            "Description": "Jakub is one of the owners of the Pester project, and he've been doing testing in PowerShell since before it was cool. He have several years of administrative experience mostly in banking environment, where He discovered Pester and started using it to test my own projects. Two years ago he moved to development, and so he can hopefully offer insight from the admin as well as developer point of view. he is also a Microsoft MVP for the past 4 years",
+            "Description": "Jakub is one of the owners of the Pester project, and he've been doing testing in PowerShell since before it was cool. He has several years of administrative experience mostly in banking environment, where He discovered Pester and started using it to test my own projects. Two years ago, he moved to development, and so he can hopefully offer insight from the admin as well as developer point of view. he is also a Microsoft MVP for the past 4 years",
             "ImageUrl": "https://github.com/PowerShellAsia/2018Website/blob/master/Pictures/JakubJares.jpeg?raw=true",
             "Social": {
               "Twitter": "http://www.twitter.com/nohwnd"
@@ -709,7 +709,7 @@
           "Title": "The PowerShell ToolKit - giving your tools a home",
           "Speaker": {
             "Name": "Friedrich Weinmann",
-            "Description": "An IT analyst/administrator, performing a wide variety of tasks, using PowerShell wherever possible. Also by hobby a developer and scripter, for the fun of it.",
+            "Description": "An IT analyst/administrator, performing a wide variety of tasks, using PowerShell wherever possible. Also, by hobby a developer and scripter, for the fun of it.",
             "ImageUrl": "https://github.com/PowerShellAsia/2018Website/blob/master/Pictures/FredWeinmann.jpg?raw=true",
             "Social": {
               "Twitter": "http://www.twitter.com/FredWeinmann"

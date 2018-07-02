@@ -93,6 +93,12 @@
   ],
   "Sponsors": [
     {
+      "Name": "Sapien",
+      "Image": "https://github.com/PowerShellAsia/2018Website/blob/master/Pictures/Sapien.jpg?raw=true",
+      "Link": "https://www.sapien.com/",
+      "Category": ""
+    },
+    {
       "Name": "Rubrik",
       "Image": "https://github.com/PowerShellAsia/2018Website/blob/master/Pictures/Rubrik.png?raw=true",
       "Link": "https://www.rubrik.com/",
@@ -543,7 +549,7 @@
         {
           "SessionId": "SEC01",
           "Time": "9:00 AM - 9:45 AM",
-          "Title": "Visualising PowerShell output automaticaly in Power BI.",
+          "Title": "Visualizing PowerShell output automatically in Power BI.",
           "Speaker": {
             "Name": "Alexander Holmeset",
             "Description": "Alexander Holmeset is Cloud Consultant at CloudWay. He currently blogs at skype4bworld.wordpress.com. He is very passionate about unified communication and automation. He has an extensive background from customer care and have an eye for understanding what the end user needs. Experienced with international spread videoconference systems, IP Telephony, end user training/support and advanced troubleshooting. Alexander´s focus is everything Skype for Business, Office 365 and automation with PowerShell. He will strive to deliver stable and user-friendly solutions that meets customer requirements and help them start taking use of the advantages in Office 365. Certified in ITIL Foundation framework and is an MCSE Productivity. His motto is: If you are going to do something more than once, then automate it.",

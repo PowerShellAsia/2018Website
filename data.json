@@ -267,13 +267,13 @@
         {
           "SessionId": "SEC02",
           "Time": "01:00 PM - 01:45 PM",
-          "Title": "Lab automation with Docker on Windows and Linux",
+          "Title": "Infrastructure validation using Pester",
           "Speaker": {
-            "Name": "Jan-Hendrik Peters",
-            "Description": "Having worked at an international grocery chain for 4 years where I automated the deployment of over 20.000 nodes, I quickly developed my love for PowerShell, Desired State Configuration and automation in general. As a Microsoft, Premier Field Engineer I now help my customers adopt a DevOps style. This includes introducing DSC into their environment, developing release pipelines and generally automating things.",
-            "ImageUrl": "https://github.com/PowerShellAsia/2018Website/blob/master/Pictures/JanPeters.jpg?raw=true",
+            "Name": "Irwin Strachan",
+            "Description": "Irwin Strachan is a technical consultant at OLGREEN and passionately curious about PowerShell, Automation and Microsoft-based technologies.",
+            "ImageUrl": "https://github.com/PowerShellAsia/2018Website/blob/master/Pictures/IrwinStrachan.jpg?raw=true",
             "Social": {
-              "Twitter": "http://www.twitter.com/nyanhp"
+              "Twitter": "http://www.twitter.com/IrwinStrachan"
             }
           }
         },
@@ -298,13 +298,13 @@
         {
           "SessionId": "SEC04",
           "Time": "3:30 PM - 4:15 PM",
-          "Title": "Infrastructure validation using Pester",
+          "Title": "Connecting Services with APIs",
           "Speaker": {
-            "Name": "Irwin Strachan",
-            "Description": "Irwin Strachan is a technical consultant at OLGREEN and passionately curious about PowerShell, Automation and Microsoft-based technologies.",
-            "ImageUrl": "https://github.com/PowerShellAsia/2018Website/blob/master/Pictures/IrwinStrachan.jpg?raw=true",
+            "Name": "Jaap Brasser",
+            "Description": "Jaap is a Cloud and Automation Engineer and CDM MVP with a big passion for scripting and automation. As an IT professional Jaap is part of several professional communities, speaks & organizes technical events and writes articles on a variety of subjects on his personal blog and other websites or magazines.",
+            "ImageUrl": "https://github.com/PowerShellAsia/2018Website/blob/master/Pictures/Jaap.jpg?raw=true",
             "Social": {
-              "Twitter": "http://www.twitter.com/IrwinStrachan"
+              "Twitter": "http://www.twitter.com/jaap_brasser"
             }
           }
         },
@@ -562,13 +562,13 @@
         {
           "SessionId": "SEC02",
           "Time": "10:00 AM - 10:45 AM",
-          "Title": "Automating your release pipeline with AutomatedLab and TFS",
+          "Title": "",
           "Speaker": {
-            "Name": "Jan-Hendrik Peters",
-            "Description": "Having worked at an international grocery chain for 4 years where I automated the deployment of over 20.000 nodes, I quickly developed my love for PowerShell, Desired State Configuration and automation in general. As a Microsoft, Premier Field Engineer I now help my customers adopt a DevOps style. This includes introducing DSC into their environment, developing release pipelines and generally automating things.",
-            "ImageUrl": "https://github.com/PowerShellAsia/2018Website/blob/master/Pictures/JanPeters.jpg?raw=true",
+            "Name": "",
+            "Description": "",
+            "ImageUrl": "",
             "Social": {
-              "Twitter": "http://www.twitter.com/nyanhp"
+              "Twitter": ""
             }
           }
         },

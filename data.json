@@ -562,13 +562,13 @@
         {
           "SessionId": "SEC02",
           "Time": "10:00 AM - 10:45 AM",
-          "Title": "",
+          "Title": "Lab automation with Docker on Windows and Linux",
           "Speaker": {
-            "Name": "",
-            "Description": "",
-            "ImageUrl": "",
+            "Name": "Raimund Andrée",
+            "Description": "Microsoft Premire Field Engineer focusing mainly on PowerShell, DevOps and DSC.",
+            "ImageUrl": "https://github.com/PowerShellAsia/2018Website/blob/master/Pictures/raimund.jpg?raw=true",
             "Social": {
-              "Twitter": ""
+              "Twitter": "http://www.twitter.com/raimundandree"
             }
           }
         },

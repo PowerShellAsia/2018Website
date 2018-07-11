@@ -109,6 +109,18 @@
       "Image": "https://github.com/PowerShellAsia/2018Website/blob/master/Pictures/Manninglogo.png?raw=true",
       "Link": "https://www.manning.com/",
       "Category": ""
+    },
+    {
+      "Name": "VMware",
+      "Image": "https://github.com/PowerShellAsia/2018Website/blob/master/Pictures/VMware.jpg?raw=true",
+      "Link": "https://www.vmware.com/sg.html",
+      "Category": ""
+    },
+    {
+      "Name": "Packt Publications",
+      "Image": "https://github.com/PowerShellAsia/2018Website/blob/master/Pictures/Packt.png?raw=true",
+      "Link": "https://www.packtpub.com/",
+      "Category": ""
     }
   ],
   "Prizes": [

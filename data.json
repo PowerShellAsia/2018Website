@@ -127,6 +127,12 @@
       "Image": "https://github.com/PowerShellAsia/2018Website/blob/master/Pictures/Packt.png?raw=true",
       "Link": "https://www.packtpub.com/",
       "Category": ""
+    },
+    {
+      "Name": "NetAssist Services Pte Ltd",
+      "Image": "https://github.com/PowerShellAsia/2018Website/blob/master/Pictures/NA.jpg?raw=true",
+      "Link": "https://www.netassist.com.sg/",
+      "Category": ""
     }
   ],
   "Prizes": [

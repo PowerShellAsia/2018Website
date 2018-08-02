@@ -103,13 +103,7 @@
       "Image": "https://github.com/PowerShellAsia/2018Website/blob/master/Pictures/Rubrik.png?raw=true",
       "Link": "https://www.rubrik.com/",
       "Category": ""
-    },
-    {
-      "Name": "Manning Publications",
-      "Image": "https://github.com/PowerShellAsia/2018Website/blob/master/Pictures/Manninglogo.png?raw=true",
-      "Link": "https://www.manning.com/",
-      "Category": ""
-    },
+    },    
     {
       "Name": "VMware",
       "Image": "https://github.com/PowerShellAsia/2018Website/blob/master/Pictures/VMware.jpg?raw=true",
@@ -132,6 +126,12 @@
       "Name": "NetAssist Services Pte Ltd",
       "Image": "https://github.com/PowerShellAsia/2018Website/blob/master/Pictures/NA.jpg?raw=true",
       "Link": "https://www.netassist.com.sg/",
+      "Category": ""
+    },
+    {
+      "Name": "Manning Publications",
+      "Image": "https://github.com/PowerShellAsia/2018Website/blob/master/Pictures/Manninglogo.png?raw=true",
+      "Link": "https://www.manning.com/",
       "Category": ""
     }
   ],

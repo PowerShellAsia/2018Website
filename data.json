@@ -247,7 +247,15 @@
         {
           "SessionId": "IOT6",
           "Time": "5:15 PM - 6:00 PM",
-          "Title": "Day Close-up"
+          "Title": "Azure Cloud Shell - A browser-based shell experience to manage Azure from anywhere",
+          "Speaker": {
+            "Name": "BingFeng Li",
+            "Description": "Senior Software Developer on the PowerShell team. Currently working on PowerShell experience in Azure CloudShell; Previous Owner of Lync PowerShell & Remoting in O365 group. Bingfeng is also a mother of two kids and a Chinese Zither player.",
+            "ImageUrl": "https://github.com/PowerShellAsia/2018Website/blob/master/Pictures/Bingfeng.jpg?raw=true",
+            "Social":{
+              "Twitter":""
+            }
+          }
         },
         {
           "SessionId": "Common5",

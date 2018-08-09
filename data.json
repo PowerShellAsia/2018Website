@@ -159,7 +159,15 @@
         {
           "SessionId": "Common2",
           "Time": "10:00 AM - 10:45 AM",
-          "Title": ""
+          "Title": "Introducing Site Reliability Engineering",
+          "Speaker": {
+            "Name": "Steven Murawski",
+            "Description": "Steven is a Lead Cloud Ops Advocate at Microsoft. Steven focuses on DevOps, SRE, Cloud Native, and Linux scenarios with Azure. Steven is an active member of the Chef and WinOps communities and a maintainer for several open source projects.",
+            "ImageUrl": "https://github.com/PowerShellAsia/2018Website/blob/master/Pictures/stevenmurawski.jpg?raw=true",
+            "Social": {
+              "Twitter": "http://www.twitter.com/StevenMurawski"
+            }
+          }
         },
         {
           "SessionId": "IOT01",
@@ -207,12 +215,12 @@
         },
         {
           "SessionId": "Common4",
-          "Time": "3:00 PM - 3:30 PM",
+          "Time": "3:00 PM - 3:15 PM",
           "Title": "Break"
         },
         {
           "SessionId": "IOT4",
-          "Time": "3:30 PM - 4:15 PM",
+          "Time": "3:15 PM - 4:00 PM",
           "Title": "Deploying complex applications with Intune, PowerShell, and VSTS Package Manager.",
           "Speaker": {
             "Name": "Steven Hosking",
@@ -225,7 +233,7 @@
         },
         {
           "SessionId": "IOT5",
-          "Time": "4:30 PM - 5:15 PM",
+          "Time": "4:15 PM - 5:00 PM",
           "Title": "PowerShell for SharePoint Online - Making SharePoint Admins feel loved again",
           "Speaker": {
             "Name": "Rick Taylor",
@@ -237,8 +245,13 @@
           }
         },
         {
+          "SessionId": "IOT6",
+          "Time": "5:15 PM - 6:00 PM",
+          "Title": "Day Close-up"
+        },
+        {
           "SessionId": "Common5",
-          "Time": "5:30 PM - 6:00 PM",
+          "Time": "6:05 PM - 6:15 PM",
           "Title": "Day Close-up"
         },
         {
@@ -316,12 +329,12 @@
         },
         {
           "SessionId": "Common4",
-          "Time": "3:00 PM - 3:30 PM",
+          "Time": "3:00 PM - 3:15 PM",
           "Title": "Break"
         },
         {
           "SessionId": "SEC04",
-          "Time": "3:30 PM - 4:15 PM",
+          "Time": "3:15 PM - 4:00 PM",
           "Title": "Connecting Services with APIs",
           "Speaker": {
             "Name": "Jaap Brasser",
@@ -334,7 +347,7 @@
         },
         {
           "SessionId": "SEC05",
-          "Time": "4:30 PM - 5:15 PM",
+          "Time": "4:15 PM - 5:00 PM",
           "Title": "Monitoring 101 with Windows and PowerShell",
           "Speaker": {
             "Name": "Matthew Hodgkins",
@@ -346,8 +359,13 @@
           }
         },
         {
+          "SessionId": "SEC06",
+          "Time": "5:15 PM - 6:00 PM",
+          "Title": "Day Close-up"
+        },
+        {
           "SessionId": "Common5",
-          "Time": "5:30 PM - 6:00 PM",
+          "Time": "6:05 PM - 6:15 PM",
           "Title": "Day Close-up"
         },
         {
@@ -425,25 +443,25 @@
         },
         {
           "SessionId": "Common4",
-          "Time": "3:00 PM - 3:30 PM",
+          "Time": "3:00 PM - 3:15 PM",
           "Title": "Break"
         },
         {
           "SessionId": "GEn04",
-          "Time": "3:30 PM - 4:15 PM",
-          "Title": "Securely Scripting PowerShell",
+          "Time": "3:15 PM - 4:00 PM",
+          "Title": "Manage your heterogeneous environments with PowerShell Core",
           "Speaker": {
-            "Name": "Jeffery Hicks",
-            "Description": "Jeffery Hicks is an IT veteran with almost 30 years of experience, much of it spent as an IT infrastructure consultant specializing in Microsoft server technologies with an emphasis in automation and efficiency. He is a multi-year recipient of the Microsoft MVP Award.  He works today as an independent author, teacher and consultant. Jeff has taught and presented on PowerShell and the benefits of automation to IT Pros worldwide. He has authored and co-authored a number of books, writes for numerous online sites and print publications, is a contributing editor at Petri.com, a Pluralsight author, and a frequent speaker at technology conferences and user groups.",
-            "ImageUrl": "https://github.com/PowerShellAsia/2018Website/blob/master/Pictures/JeffHicks.png?raw=true",
+            "Name": "Steve Lee",
+            "Description": "Principal Software Engineer Manager of Windows PowerShell, PowerShell Core, PSScriptAnalyzer, and PSEditorServices. Steve is a Poker Enthusiast at Microsoft",
+            "ImageUrl": "https://github.com/PowerShellAsia/2018Website/blob/master/Pictures/SteveL.jpg?raw=true",
             "Social": {
-              "Twitter": "http://www.twitter.com/JeffHicks"
+              "Twitter": "http://www.twitter.com/Steve_MSFT"
             }
           }
         },
         {
           "SessionId": "GEn05",
-          "Time": "4:30 PM - 5:15 PM",
+          "Time": "4:15 PM - 5:00 PM",
           "Title": "PowerShell for the Masses",
           "Speaker": {
             "Name": "Jason Yoder",
@@ -455,8 +473,21 @@
           }
         },
         {
+          "SessionId": "GEn06",
+          "Time": "5:15 PM - 6:00 PM",
+          "Title": "Securely Scripting PowerShell",
+          "Speaker": {
+            "Name": "Jeffery Hicks",
+            "Description": "Jeffery Hicks is an IT veteran with almost 30 years of experience, much of it spent as an IT infrastructure consultant specializing in Microsoft server technologies with an emphasis in automation and efficiency. He is a multi-year recipient of the Microsoft MVP Award.  He works today as an independent author, teacher and consultant. Jeff has taught and presented on PowerShell and the benefits of automation to IT Pros worldwide. He has authored and co-authored a number of books, writes for numerous online sites and print publications, is a contributing editor at Petri.com, a Pluralsight author, and a frequent speaker at technology conferences and user groups.",
+            "ImageUrl": "https://github.com/PowerShellAsia/2018Website/blob/master/Pictures/JeffHicks.png?raw=true",
+            "Social": {
+              "Twitter": "http://www.twitter.com/JeffHicks"
+            }
+          }
+        },
+        {
           "SessionId": "Common5",
-          "Time": "5:30 PM - 6:00 PM",
+          "Time": "6:05 PM - 6:15 PM",
           "Title": "Day Close-up"
         },
         {
@@ -476,13 +507,13 @@
         {
           "SessionId": "DEV01",
           "Time": "9:00 AM - 9:45 AM",
-          "Title": "Introducing Site Reliability Engineering",
+          "Title": "",
           "Speaker": {
-            "Name": "Steven Murawski",
-            "Description": "Steven is a Lead Cloud Ops Advocate at Microsoft. Steven focuses on DevOps, SRE, Cloud Native, and Linux scenarios with Azure. Steven is an active member of the Chef and WinOps communities and a maintainer for several open source projects.",
+            "Name": "",
+            "Description": "",
             "ImageUrl": "https://github.com/PowerShellAsia/2018Website/blob/master/Pictures/stevenmurawski.jpg?raw=true",
             "Social": {
-              "Twitter": "http://www.twitter.com/StevenMurawski"
+              "Twitter": "http://www.twitter.com/"
             }
           }
         },

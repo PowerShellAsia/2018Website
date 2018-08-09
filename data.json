@@ -750,13 +750,13 @@
         {
           "SessionId": "GEN03",
           "Time": "11:00 AM - 11:45 PM",
-          "Title": "Easing the deployment for Just Enough Administration: JEA.complexity = $false",
-          "Speaker": {
-            "Name": "Miriam Wiesner",
-            "Description": "Miriam Wiesner works as Premier Field Engineer for Secure Infrastructure at Microsoft. Delivering security assessments and custom engagements, she is confronted on a daily basis with security challenges from customers all over the world. Prior to her time as PFE, she worked as an administrator, as a software developer, as a system engineer and as a security consultant, building her own penetration testing department. In her spare time she enjoys writing articles for her TechNet and her private blog. Responds to the nickname 'xyra'.",
-            "ImageUrl": "https://github.com/PowerShellAsia/2018Website/blob/master/Pictures/Miriam.jpg?raw=true",
-            "Social": {
-              "Twitter": "http://www.twitter.com/MiriamXyra"
+          "Title": "Migrate Windows PowerShell modules using PowerShell Standard to support cross-platform",
+          "Speaker":{
+            "Name":"BingFeng Li",
+            "Description":"Senior Software Developer on the PowerShell team. Currently working on PowerShell experience in Azure CloudShell; Previous Owner of Lync PowerShell & Remoting in O365 group. Bingfeng is also a mother of two kids and a Chinese Zither player.",
+            "ImageUrl":"https://github.com/PowerShellAsia/2018Website/blob/master/Pictures/Bingfeng.jpg?raw=true",
+            "Social":{
+              "Twitter":""
             }
           }
         },
@@ -781,7 +781,15 @@
         {
           "SessionId": "GEN05",
           "Time": "2:00 PM - 2:45 PM",
-          "Title": ""
+          "Title": "Easing the deployment for Just Enough Administration: JEA.complexity = $false",
+          "Speaker": {
+            "Name": "Miriam Wiesner",
+            "Description": "Miriam Wiesner works as Premier Field Engineer for Secure Infrastructure at Microsoft. Delivering security assessments and custom engagements, she is confronted on a daily basis with security challenges from customers all over the world. Prior to her time as PFE, she worked as an administrator, as a software developer, as a system engineer and as a security consultant, building her own penetration testing department. In her spare time she enjoys writing articles for her TechNet and her private blog. Responds to the nickname 'xyra'.",
+            "ImageUrl": "https://github.com/PowerShellAsia/2018Website/blob/master/Pictures/Miriam.jpg?raw=true",
+            "Social": {
+              "Twitter": "http://www.twitter.com/MiriamXyra"
+            }
+          }
         },
         {
           "SessionId": "Common3",

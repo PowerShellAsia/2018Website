@@ -523,13 +523,13 @@
         {
           "SessionId": "DEV01",
           "Time": "9:00 AM - 9:45 AM",
-          "Title": "",
+          "Title": "PowerShell Engine Internals",
           "Speaker": {
-            "Name": "",
-            "Description": "",
-            "ImageUrl": "https://github.com/PowerShellAsia/2018Website/blob/master/Pictures/stevenmurawski.jpg?raw=true",
+            "Name": "Dongbo Wang",
+            "Description": "Senior Software Developer on the PowerShell team and a maintainer of the GitHub PowerShell repository.",
+            "ImageUrl": "https://github.com/PowerShellAsia/2018Website/blob/master/Pictures/Dongbo.JPG?raw=true",
             "Social": {
-              "Twitter": "http://www.twitter.com/"
+              "Twitter": "http://www.twitter.com/T800PS"
             }
           }
         },

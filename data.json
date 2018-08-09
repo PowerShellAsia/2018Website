@@ -581,13 +581,13 @@
         {
           "SessionId": "DEV05",
           "Time": "2:00 PM - 2:45 PM",
-          "Title": "From Swagger to PS Module, Lesson learned",
+          "Title": "State of PowerShell – Now and Future",
           "Speaker": {
-            "Name": " Kyle Ruddy",
-            "Description": "Kyle Ruddy is a Senior Technical Marketing Engineer working for VMware R&D in the Cloud Platform Business Unit. Kyle currently focuses on vSphere automation and the associated automation frameworks including all things API, CLI, and SDK. Kyle can be found blogging on VMware blogs, http://blogs.vmware.com/vSphere and http://blogs.vmware.com/PowerCLI, and his personal blog, http://www.thatcouldbeaproblem.com",
-            "ImageUrl": "https://github.com/PowerShellAsia/2018Website/blob/master/Pictures/KyleRuddy.jpg?raw=true",
+            "Name": "Hemant Mahawar",
+            "Description": "Principal PM Manager on the PowerShell team. Leads PowerShell PM team that owns PowerShell Core, PowerShell Gallery, PowerShell in Cloud Shell, PowerShell Editor Services, Windows port of OpenSSH, Windows PowerShell and other PowerShell features. Over the past decade, Hemant has been responsible for various PowerShell features across its multiple releases.",
+            "ImageUrl": "https://github.com/PowerShellAsia/2018Website/blob/master/Pictures/HemantM.jpg?raw=true",
             "Social": {
-              "Twitter": "http://www.twitter.com/kmruddy"
+              "Twitter": "http://www.twitter.com/HemanMahawar"
             }
           }
         },
@@ -599,7 +599,15 @@
         {
           "SessionId": "DEV06",
           "Time": "3:30 PM - 4:15 PM",
-          "Title": ""
+          "Title": "From Swagger to PS Module, Lesson learned",
+          "Speaker": {
+            "Name": " Kyle Ruddy",
+            "Description": "Kyle Ruddy is a Senior Technical Marketing Engineer working for VMware R&D in the Cloud Platform Business Unit. Kyle currently focuses on vSphere automation and the associated automation frameworks including all things API, CLI, and SDK. Kyle can be found blogging on VMware blogs, http://blogs.vmware.com/vSphere and http://blogs.vmware.com/PowerCLI, and his personal blog, http://www.thatcouldbeaproblem.com",
+            "ImageUrl": "https://github.com/PowerShellAsia/2018Website/blob/master/Pictures/KyleRuddy.jpg?raw=true",
+            "Social": {
+              "Twitter": "http://www.twitter.com/kmruddy"
+            }
+          }
         },
         {
           "SessionId": "DEV07",

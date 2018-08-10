@@ -612,7 +612,15 @@
         {
           "SessionId": "DEV07",
           "Time": "4:30 PM - 5:15 PM",
-          "Title": ""
+          "Title": "Cross-platform Azure PowerShell: A peek under the covers",
+          "Speaker":{
+            "Name":"Mark Cowlishaw",
+            "Description":"Mark is a Principal Software Engineer on the Azure Team at Microsoft, working on Azure PowerShell.  Mark has been working on PowerShell cmdlets and cross-platform tools and libraries for Azure for the last several years.  Mark has an amazing Wife and Daughter and has a passion for Hiking and the outdoors in general.",
+            "ImageUrl":"https://github.com/PowerShellAsia/2018Website/blob/master/Pictures/MarkC.jpg?raw=true",
+            "Social":{
+              "Github":"https://github.com/markcowl"
+            }
+          }
         },
         {
           "SessionId": "Common4",
@@ -718,7 +726,7 @@
       ]
     },
     {
-      "Day": "28 October 2017",
+      "Day": "20 October 2017",
       "Name": "PowerShell Deep dive",
       "Sessions": [
         {

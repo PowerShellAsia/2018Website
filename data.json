@@ -518,7 +518,7 @@
   "Tracks2": [
     {
       "Day": "20 October 2018",
-      "Name": "CloudyDevOps ",
+      "Name": "CloudyDevOps",
       "Sessions": [
         {
           "SessionId": "DEV01",
@@ -726,7 +726,7 @@
       ]
     },
     {
-      "Day": "20 October 2017",
+      "Day": "20 October 2018",
       "Name": "PowerShell Deep dive",
       "Sessions": [
         {

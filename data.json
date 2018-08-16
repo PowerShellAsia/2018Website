@@ -103,7 +103,7 @@
       "Image": "https://github.com/PowerShellAsia/2018Website/blob/master/Pictures/Rubrik.png?raw=true",
       "Link": "https://www.rubrik.com/",
       "Category": ""
-    },    
+    },
     {
       "Name": "VMware",
       "Image": "https://github.com/PowerShellAsia/2018Website/blob/master/Pictures/VMware.jpg?raw=true",
@@ -139,6 +139,181 @@
 
   ],
   "Tracks": [
+    {
+      "Day": "Workshop Agenda 18 October 2018 [Optional]",
+      "Name": "Workshop DSC Track",
+      "Sessions": [
+        {
+          "SessionId": "DSC1",
+          "Time": "8:30 AM - 9:00 AM",
+          "Title": "An intro to Configuration Management",
+          "Speaker": {
+            "Name": "Steven Murawski",
+            "Description": "Steven is a Lead Cloud Ops Advocate at Microsoft. Steven focuses on DevOps, SRE, Cloud Native, and Linux scenarios with Azure. Steven is an active member of the Chef and WinOps communities and a maintainer for several open source projects.",
+            "ImageUrl": "https://github.com/PowerShellAsia/2018Website/blob/master/Pictures/stevenmurawski.jpg?raw=true",
+            "Social": {
+              "Twitter": "http://www.twitter.com/StevenMurawski"
+            }
+          }
+        },
+        {
+          "SessionId": "DSC2",
+          "Time": "9:15 AM - 12:00 PM",
+          "Title": "Solving Your Problems with Custom DSC Resource",
+          "Speaker": {
+            "Name": "Jason Yoder",
+            "Description": "Jason Yoder is a Microsoft Certified Trainer and international conference speaker who has delivered over 100 PowerShell class worldwide. Jason combines his experience as a Network Administrator, his education as a Computer Scientist, and as an MCSE to show his students how to develop real solutions to real problems using Windows PowerShell. Jason is the Author of Advanced Windows PowerShell Scripting video training series with O'Reilly media and the Technical Reviewer for Microsoft's official instructor led PowerShell Training.",
+            "ImageUrl": "https://github.com/PowerShellAsia/2018Website/blob/master/Pictures/Jason1.png?raw=true",
+            "Social": {
+              "Twitter": "http://www.twitter.com/JasonYoder_MCT"
+            }
+          }
+        },
+        {
+          "SessionId": "Common1",
+          "Time": "12:00 PM - 13:00 PM",
+          "Title": "Lunch"
+        },
+        {
+          "SessionId": "DSC3",
+          "Time": "13:00 PM - 14:00 PM",
+          "Title": "Your first DSC Pull server",
+          "Speaker": {
+            "Name": "Ben Gelens",
+            "Description": "Ben is a technician in heart and soul. He likes working with cutting-edge technology and implementing innovative solutions, often before the technology has commoditized. His strength is that he can automate almost anything. Ben transitioned from a traditional infrastructure consultant / engineer to a DevOps and Cloud focused consultant / engineer. Ben is an active IT community participant and speaker and has been awarded the Microsoft MVP (Most Valuable Professional) award for his contributions.",
+            "ImageUrl": "https://github.com/PowerShellAsia/2018Website/blob/master/Pictures/BenGelens.png?raw=true",
+            "Social": {
+              "Twitter": "http://www.twitter.com/bgelens"
+            }
+          }
+        },
+        {
+          "SessionId": "DSC4",
+          "Time": "14:15 PM - 15:45 PM",
+          "Title": "Operation Validation",
+          "Speaker": {
+            "Name": "Ravikanth Chaganti",
+            "Description": "Ravikanth is the founder and editor of the PowerShell Magazine. He is a multi-year recipient of Microsoft MVP award and works at Dell EMC as a Senior Principal Systems Engineer. He blogs at http://www.ravichaganti.com/blog",
+            "ImageUrl": "https://github.com/PowerShellAsia/2018Website/blob/master/Pictures/ravi.jpeg?raw=true",
+            "Social": {
+              "Twitter": "http://www.twitter.com/ravikanth"
+            }
+          }
+        },
+        {
+          "SessionId": "Common2",
+          "Time": "15:45 PM - 16:15 PM",
+          "Title": "Break"
+        },
+        {
+          "SessionId": "DSC5",
+          "Time": "16:15 PM - 17:45 PM",
+          "Title": "An advanced DSC configuration pipeline overview",
+          "Speaker": {
+            "Name": "Raimund Andree",
+            "Description": "Microsoft Premire Field Engineer focusing mainly on PowerShell, DevOps and DSC.",
+            "ImageUrl": "https://github.com/PowerShellAsia/2018Website/blob/master/Pictures/raimund.jpg?raw=true",
+            "Social": {
+              "Twitter": "http://www.twitter.com/raimundandree"
+            }
+          }
+        },
+        {
+          "SessionId": "Common3",
+          "Time": "17:45 PM - 18:00 PM",
+          "Title": "Closing Session"
+        }
+      ]
+    },
+    {
+      "Day": "18 October 2018",
+      "Name": "Workshop PowerShell Track",
+      "Sessions": [
+        {
+          "SessionId": "Work1",
+          "Time": "8:30 AM - 9:00 AM",
+          "Title": "Creating GUI Application with PowerShell Studio",
+          "Speaker": {
+            "Name": "Maximo Trinidad",
+            "Description": "Recently joined SAPIENS Technologies as their Technology Evangelist for their PowerShell and Scripting Tools line of products. Involved with SQL Server Technologies, and Microsoft Cloud Technologies. Microsoft PowerShell MVP since 2009, MVP SAPIEN Technologies, and IDERA ACE 2017. Active Florida speaker at SQLSaturday, IT Pro and .NET camps events.",
+            "ImageUrl": "https://github.com/PowerShellAsia/2018Website/blob/master/Pictures/MaximoTrinidad.jpg?raw=true",
+            "Social": {
+              "Twitter": "http://www.twitter.com/MaxTrinidad"
+            }
+          }
+        },
+        {
+          "SessionId": "Work2",
+          "Time": "9:15 AM - 12:00 PM",
+          "Title": "Creating GUI Application with PowerShell Studio",
+          "Speaker": {
+            "Name": "Maximo Trinidad",
+            "Description": "Recently joined SAPIENS Technologies as their Technology Evangelist for their PowerShell and Scripting Tools line of products. Involved with SQL Server Technologies, and Microsoft Cloud Technologies. Microsoft PowerShell MVP since 2009, MVP SAPIEN Technologies, and IDERA ACE 2017. Active Florida speaker at SQLSaturday, IT Pro and .NET camps events.",
+            "ImageUrl": "https://github.com/PowerShellAsia/2018Website/blob/master/Pictures/MaximoTrinidad.jpg?raw=true",
+            "Social": {
+              "Twitter": "http://www.twitter.com/MaxTrinidad"
+            }
+          }
+        },
+        {
+          "SessionId": "Common1",
+          "Time": "12:00 PM - 13:00 PM",
+          "Title": "Lunch"
+        },
+        {
+          "SessionId": "Work3",
+          "Time": "13:00 PM - 14:00 PM",
+          "Title": "TBC",
+          "Speaker": {
+            "Name": "",
+            "Description": "",
+            "ImageUrl": "",
+            "Social": {
+              "Twitter": ""
+            }
+          }
+        },
+        {
+          "SessionId": "Work4",
+          "Time": "14:15 PM - 15:45 PM",
+          "Title": "TBC",
+          "Speaker": {
+            "Name": "",
+            "Description": "",
+            "ImageUrl": "",
+            "Social": {
+              "Twitter": ""
+            }
+          }
+        },
+        {
+          "SessionId": "Common2",
+          "Time": "15:45 PM - 16:15 PM",
+          "Title": "Break"
+        },
+        {
+          "SessionId": "Work5",
+          "Time": "16:15 PM - 17:45 PM",
+          "Title": "TBC",
+          "Speaker": {
+            "Name": "",
+            "Description": "",
+            "ImageUrl": "",
+            "Social": {
+              "Twitter": ""
+            }
+          }
+        },
+        {
+          "SessionId": "Common3",
+          "Time": "17:45 PM - 18:00 PM",
+          "Title": "Closing Session"
+        }
+      ]
+    }
+
+  ],
+  "Tracks1": [
     {
       "Day": "19 October 2018",
       "Name": "CloudyDevOps",
@@ -265,7 +440,7 @@
         {
           "SessionId": "Common6",
           "Time": "6:30 PM - 10:00 PM",
-          "Title": "Networking Event - FREE BEER!!"
+          "Title": "Networking Event - FREE DRINKS!!"
         }
       ]
     },
@@ -387,7 +562,7 @@
         {
           "SessionId": "Common6",
           "Time": "6:30 PM - 10:00 PM",
-          "Title": "Networking Event - FREE BEER!!"
+          "Title": "Networking Event - FREE DRINKS!!"
         }
       ]
     },
@@ -509,7 +684,7 @@
         {
           "SessionId": "Common6",
           "Time": "6:30 PM - 10:00 PM",
-          "Title": "Networking Event - FREE BEER!!"
+          "Title": "Networking Event - FREE DRINKS!!"
         }
       ]
     }
@@ -679,8 +854,16 @@
         },
         {
           "SessionId": "SEC04",
-          "Time": "01:00 PM - 01:45 PM"
-          
+          "Time": "01:00 PM - 01:45 PM",
+          "Title": "",
+          "Speaker": {
+            "Name": "",
+            "Description": "",
+            "ImageUrl": "",
+            "Social": {
+              "Twitter": ""
+            }
+          }
         },
         {
           "SessionId": "SEC05",
@@ -759,12 +942,12 @@
           "SessionId": "GEN03",
           "Time": "11:00 AM - 11:45 PM",
           "Title": "Migrate Windows PowerShell modules using PowerShell Standard to support cross-platform",
-          "Speaker":{
-            "Name":"BingFeng Li",
-            "Description":"Senior Software Developer on the PowerShell team. Currently working on PowerShell experience in Azure CloudShell; Previous Owner of Lync PowerShell & Remoting in O365 group. Bingfeng is also a mother of two kids and a Chinese Zither player.",
-            "ImageUrl":"https://github.com/PowerShellAsia/2018Website/blob/master/Pictures/Bingfeng.jpg?raw=true",
-            "Social":{
-              "Twitter":""
+          "Speaker": {
+            "Name": "BingFeng Li",
+            "Description": "Senior Software Developer on the PowerShell team. Currently working on PowerShell experience in Azure CloudShell; Previous Owner of Lync PowerShell & Remoting in O365 group. Bingfeng is also a mother of two kids and a Chinese Zither player.",
+            "ImageUrl": "https://github.com/PowerShellAsia/2018Website/blob/master/Pictures/Bingfeng.jpg?raw=true",
+            "Social": {
+              "Twitter": ""
             }
           }
         },

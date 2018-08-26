@@ -531,13 +531,13 @@
         {
           "SessionId": "SEC05",
           "Time": "4:15 PM - 5:00 PM",
-          "Title": "",
+          "Title": "PowerShell, .NET and the Serverless Architecture",
           "Speaker": {
-            "Name": "",
-            "Description": "",
-            "ImageUrl": "",
+            "Name": "Kenneth Hansen",
+            "Description": "I work for @AWSCloud - my opinions are my own. PPM-T for AWS .NET Dev and PowerShell experience. @microsoft helped create PowerShell from Monad to PowerShell 6",
+            "ImageUrl": "https://github.com/PowerShellAsia/2018Website/blob/master/Pictures/kenneth.jpg?raw=true",
             "Social": {
-              "Twitter": ""
+              "Twitter": "http://www.twitter.com/KhansenHansen"
             }
           }
         },

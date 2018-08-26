@@ -534,7 +534,7 @@
           "Title": "PowerShell, .NET and the Serverless Architecture",
           "Speaker": {
             "Name": "Kenneth Hansen",
-            "Description": "I work for @AWSCloud - my opinions are my own. PPM-T for AWS .NET Dev and PowerShell experience. @microsoft helped create PowerShell from Monad to PowerShell 6",
+            "Description": "I work for @AWSCloud. PPM-T for AWS .NET Dev and PowerShell experience. @microsoft helped create PowerShell from Monad to PowerShell 6",
             "ImageUrl": "https://github.com/PowerShellAsia/2018Website/blob/master/Pictures/kenneth.jpg?raw=true",
             "Social": {
               "Twitter": "http://www.twitter.com/KhansenHansen"

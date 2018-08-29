@@ -534,7 +534,7 @@
           "Title": "PowerShell, .NET and the Serverless Architecture",
           "Speaker": {
             "Name": "Kenneth Hansen",
-            "Description": "I work for @AWSCloud. PPM-T for AWS .NET Dev and PowerShell experience. @microsoft helped create PowerShell from Monad to PowerShell 6",
+            "Description": "Kenneth Hansen is a Principal Program Manager for AWS .NET Dev and PowerShell experience. Prior to AWS, Kenneth helped create PowerShell from the first Monad days to PowerShell 6 on Open Source; working both as both a technical contributor and team leader. He remains a member of the PowerShell Governance board. Prior to PowerShell, Kenneth worked on IP Telephony, BackOffice, Exchange Apps, and Provisioning. Kenneth also led software development at MasPar, a manufacturer of Massively Parallel Computers and even earlier worked in various startup tool and compiler teams.",
             "ImageUrl": "https://github.com/PowerShellAsia/2018Website/blob/master/Pictures/kenneth.jpg?raw=true",
             "Social": {
               "Twitter": "http://www.twitter.com/KhansenHansen"

@@ -886,7 +886,15 @@
         {
           "SessionId": "SEC06",
           "Time": "3:30 PM - 4:15 PM",
-          "Title": ""
+          "Title": "Security and Compliance – on-prem and in the cloud – using PowerShell and Systems Manager",
+          "Speaker": {
+            "Name": "Narayanan (Nana) Lakshmanan",
+            "Description": "Narayanan (Nana) Lakshmanan is a Software Development Manager with AWS Systems Manager. Before joining AWS, he was a Principal Software Engineering Manager in the Cloud and Enterprise Division at Microsoft where he shipped software as part of Windows Server, Microsoft Azure and open source projects in Github. Nana was part of the PowerShell team since v1.0 until joining Amazon. He has worked in PowerShell DSC, DSC Resource Kit, PowerShell workflows and remoting.",
+            "ImageUrl": "https://github.com/PowerShellAsia/2018Website/blob/master/Pictures/nana.jpg?raw=true",
+            "Social": {
+              "Twitter": "http://www.twitter.com/NanaLakshmanan"
+            }
+          }
         },
         {
           "SessionId": "SEC07",
@@ -990,7 +998,7 @@
         {
           "SessionId": "GEN06",
           "Time": "3:30 PM - 4:15 PM",
-          "Title": "The PowerShell ToolKit - giving your tools a home",
+          "Title": "Logging in a DevOps world",
           "Speaker": {
             "Name": "Friedrich Weinmann",
             "Description": "An IT analyst/administrator, performing a wide variety of tasks, using PowerShell wherever possible. Also, by hobby a developer and scripter, for the fun of it.",

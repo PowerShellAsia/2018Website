@@ -487,19 +487,6 @@
         {
           "SessionId": "SEC02",
           "Time": "01:00 PM - 01:45 PM",
-          "Title": "Infrastructure validation using Pester",
-          "Speaker": {
-            "Name": "Irwin Strachan",
-            "Description": "Irwin Strachan is a technical consultant at OLGREEN and passionately curious about PowerShell, Automation and Microsoft-based technologies.",
-            "ImageUrl": "https://github.com/PowerShellAsia/2018Website/blob/master/Pictures/IrwinStrachan.jpg?raw=true",
-            "Social": {
-              "Twitter": "http://www.twitter.com/IrwinStrachan"
-            }
-          }
-        },
-        {
-          "SessionId": "SEC03",
-          "Time": "2:00 PM - 2:45 PM",
           "Title": "Getting started with integration of PowerShell and Power BI.",
           "Speaker": {
             "Name": "Alexander Holmeset",
@@ -507,6 +494,20 @@
             "ImageUrl": "https://github.com/PowerShellAsia/2018Website/blob/master/Pictures/AlexHolmeset.jpg?raw=true",
             "Social": {
               "Twitter": "http://www.twitter.com/AlexHolmeset"
+
+            }
+          }
+        },
+        {
+          "SessionId": "SEC03",
+          "Time": "2:00 PM - 2:45 PM",
+          "Title": "Connecting Services with APIs",
+          "Speaker": {
+            "Name": "Jaap Brasser",
+            "Description": "Jaap is a Cloud and Automation Engineer and CDM MVP with a big passion for scripting and automation. As an IT professional Jaap is part of several professional communities, speaks & organizes technical events and writes articles on a variety of subjects on his personal blog and other websites or magazines.",
+            "ImageUrl": "https://github.com/PowerShellAsia/2018Website/blob/master/Pictures/Jaap.jpg?raw=true",
+            "Social": {
+              "Twitter": "http://www.twitter.com/jaap_brasser"
             }
           }
         },
@@ -518,13 +519,13 @@
         {
           "SessionId": "SEC04",
           "Time": "3:15 PM - 4:00 PM",
-          "Title": "Connecting Services with APIs",
+          "Title": "Security and Compliance – on-prem and in the cloud – using PowerShell and Systems Manager",
           "Speaker": {
-            "Name": "Jaap Brasser",
-            "Description": "Jaap is a Cloud and Automation Engineer and CDM MVP with a big passion for scripting and automation. As an IT professional Jaap is part of several professional communities, speaks & organizes technical events and writes articles on a variety of subjects on his personal blog and other websites or magazines.",
-            "ImageUrl": "https://github.com/PowerShellAsia/2018Website/blob/master/Pictures/Jaap.jpg?raw=true",
+            "Name": "Narayanan (Nana) Lakshmanan",
+            "Description": "Narayanan (Nana) Lakshmanan is a Software Development Manager with AWS Systems Manager. Before joining AWS, he was a Principal Software Engineering Manager in the Cloud and Enterprise Division at Microsoft where he shipped software as part of Windows Server, Microsoft Azure and open source projects in Github. Nana was part of the PowerShell team since v1.0 until joining Amazon. He has worked in PowerShell DSC, DSC Resource Kit, PowerShell workflows and remoting.",
+            "ImageUrl": "https://github.com/PowerShellAsia/2018Website/blob/master/Pictures/nana.jpg?raw=true",
             "Social": {
-              "Twitter": "http://www.twitter.com/jaap_brasser"
+              "Twitter": "http://www.twitter.com/NanaLakshmanan"
             }
           }
         },
@@ -886,13 +887,13 @@
         {
           "SessionId": "SEC06",
           "Time": "3:30 PM - 4:15 PM",
-          "Title": "Security and Compliance – on-prem and in the cloud – using PowerShell and Systems Manager",
-          "Speaker": {
-            "Name": "Narayanan (Nana) Lakshmanan",
-            "Description": "Narayanan (Nana) Lakshmanan is a Software Development Manager with AWS Systems Manager. Before joining AWS, he was a Principal Software Engineering Manager in the Cloud and Enterprise Division at Microsoft where he shipped software as part of Windows Server, Microsoft Azure and open source projects in Github. Nana was part of the PowerShell team since v1.0 until joining Amazon. He has worked in PowerShell DSC, DSC Resource Kit, PowerShell workflows and remoting.",
-            "ImageUrl": "https://github.com/PowerShellAsia/2018Website/blob/master/Pictures/nana.jpg?raw=true",
-            "Social": {
-              "Twitter": "http://www.twitter.com/NanaLakshmanan"
+          "Title": "Infrastructure validation using Pester",
+             "Speaker": {
+              "Name": "Irwin Strachan",
+              "Description": "Irwin Strachan is a technical consultant at OLGREEN and passionately curious about PowerShell, Automation and Microsoft-based technologies.",
+              "ImageUrl": "https://github.com/PowerShellAsia/2018Website/blob/master/Pictures/IrwinStrachan.jpg?raw=true",
+              "Social": {
+               "Twitter": "http://www.twitter.com/IrwinStrachan"
             }
           }
         },

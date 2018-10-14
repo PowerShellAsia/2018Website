@@ -436,11 +436,6 @@
           "SessionId": "Common5",
           "Time": "6:05 PM - 6:15 PM",
           "Title": "Day Close-up"
-        },
-        {
-          "SessionId": "Common6",
-          "Time": "6:30 PM - 10:00 PM",
-          "Title": "Networking Event - FREE DRINKS!!"
         }
       ]
     },
@@ -559,11 +554,6 @@
           "SessionId": "Common5",
           "Time": "6:05 PM - 6:15 PM",
           "Title": "Day Close-up"
-        },
-        {
-          "SessionId": "Common6",
-          "Time": "6:30 PM - 10:00 PM",
-          "Title": "Networking Event - FREE DRINKS!!"
         }
       ]
     },
@@ -681,11 +671,6 @@
           "SessionId": "Common5",
           "Time": "6:05 PM - 6:15 PM",
           "Title": "Day Close-up"
-        },
-        {
-          "SessionId": "Common6",
-          "Time": "6:30 PM - 10:00 PM",
-          "Title": "Networking Event - FREE DRINKS!!"
         }
       ]
     }

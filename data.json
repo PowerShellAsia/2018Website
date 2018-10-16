@@ -263,28 +263,32 @@
         {
           "SessionId": "Work3",
           "Time": "13:00 PM - 14:00 PM",
-          "Title": "TBC",
+          "Title": "Build up your PowerShell knowledge, Shell-by-Shell",
           "Speaker": {
-            "Name": "",
-            "Description": "",
-            "ImageUrl": "",
+            "Name": "Jaap Brasser",
+            "Description": "Jaap is a Cloud and Automation Engineer and CDM MVP with a big passion for scripting and automation. As an IT professional Jaap is part of several professional communities, speaks & organizes technical events and writes articles on a variety of subjects on his personal blog and other websites or magazines.",
+            "ImageUrl": "https://github.com/PowerShellAsia/2018Website/blob/master/Pictures/Jaap.jpg?raw=true",
             "Social": {
-              "Twitter": ""
-            }
+              "Blog": "jaapbrasser.com",
+              "Twitter": "http://www.twitter.com/jaap_brasser",
+              "Github": "github.com/jaapbrasser"
+          }
           }
         },
         {
           "SessionId": "Work4",
           "Time": "14:15 PM - 15:45 PM",
-          "Title": "TBC",
+          "Title": "Build up your PowerShell knowledge, Shell-by-Shell",
           "Speaker": {
-            "Name": "",
-            "Description": "",
-            "ImageUrl": "",
+            "Name": "Jaap Brasser",
+            "Description": "Jaap is a Cloud and Automation Engineer and CDM MVP with a big passion for scripting and automation. As an IT professional Jaap is part of several professional communities, speaks & organizes technical events and writes articles on a variety of subjects on his personal blog and other websites or magazines.",
+            "ImageUrl": "https://github.com/PowerShellAsia/2018Website/blob/master/Pictures/Jaap.jpg?raw=true",
             "Social": {
-              "Twitter": ""
+              "Blog": "jaapbrasser.com",
+              "Twitter": "http://www.twitter.com/jaap_brasser",
+              "Github": "github.com/jaapbrasser"
             }
-          }
+        }
         },
         {
           "SessionId": "Common2",
@@ -294,15 +298,17 @@
         {
           "SessionId": "Work5",
           "Time": "16:15 PM - 17:45 PM",
-          "Title": "TBC",
+          "Title": "Build up your PowerShell knowledge, Shell-by-Shell",
           "Speaker": {
-            "Name": "",
-            "Description": "",
-            "ImageUrl": "",
+            "Name": "Jaap Brasser",
+            "Description": "Jaap is a Cloud and Automation Engineer and CDM MVP with a big passion for scripting and automation. As an IT professional Jaap is part of several professional communities, speaks & organizes technical events and writes articles on a variety of subjects on his personal blog and other websites or magazines.",
+            "ImageUrl": "https://github.com/PowerShellAsia/2018Website/blob/master/Pictures/Jaap.jpg?raw=true",
             "Social": {
-              "Twitter": ""
+              "Blog": "jaapbrasser.com",
+              "Twitter": "http://www.twitter.com/jaap_brasser",
+              "Github": "github.com/jaapbrasser"
             }
-          }
+      }
         },
         {
           "SessionId": "Common3",

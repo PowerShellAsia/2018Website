@@ -11,9 +11,9 @@
     "Twitter": "http://www.twitter.com/psconfasia"
   },
   "Callout": {
-    "Text": "Ticket on Sale NOW! Register NOW!",
+    "Text": "",
     "Link": "https://ti.to/psconfasia/psconfasia2018",
-    "Type": "warning"
+    "Type": "info"
   },
   "Campaigns": [
     {
